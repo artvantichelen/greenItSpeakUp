@@ -135,7 +135,7 @@ En réduisant  les besoins  de  la couche  logicielle,  on  réduit  les besoins
 On a tendance à s'imaginer le  sujet du Green-IT comme un sujet qui doit être traiter par les développeurs et les responsable infra. Or le Green-IT c'est avant tout des gestes que toute personnes travaillant dans une société peut et devrai faire. Les gestes sont nombreux et on va s'attarder sur 2 gestes sur lesquels seules les collaborateurs ou collaboratrices peuvent agir directement.
 
 1. L'impression de documents :
-  - une page imprimé (recto ou recto/verso) représente $10,22 gCO_{2eq}$^[15],
+  - une page imprimée (recto ou recto/verso) représente $10,22 gCO_{2eq}$^[15],
   - l'utilisation d'une ramette de papier recyclé émet $70 gCO_{2eq}$ qu'une ramette issue d'arbre feuillus^[16],
   - imprimer que ce qui est nécessaire.
 
@@ -180,6 +180,38 @@ En données d'entrée on prendra pour les véhicules :
 
 À l'issue d'un sprint de 2 semaines cette équipe aura généré uniquement par son transport et sa consommation de papier : $(3/40)*23,11+3*14,89+(3/6)*39,33 = 66,07 kgCO_{2eq}$ soit presque 3/4 des émission de CO2 d'un serveur hébergé en france pendant 1 an.
 
+## Vous
+
+### Se situer
+
+Sur internet, sur les médias ou autour de discussion on peut attendre plein de conseils ou d'idée pour réduire sont empreinte carbone. Mais bien souvent il n'est pas évident de savoir l'impact réel ou l'ordre de grandeurs.  Voici donc liste non exhaustive avec des example :
+
+- **La température de son logement**, selon les normes de performance énergétique des bâtiments (RT2005, RT2012 et RE2020) impose comme hypothèse de calcul une température moyenne annuelle du logement à 19°C^[22]. Mais baissé son thermostat de 1°C ça représente quel économie ?
+  - -7% de consommation d'energie^[23].
+- **La voiture**, les émissions varient beaucoup d'une énergie à une autre, d'une voiture à une autre, du pilote, etc. Mais on peut partir sur une moyenne de $99 gCO_{2eq}$^[17] :
+  - avoir un ou des passage permet de répartir cette émissions à part égale,
+  - un trajet à vélo à 15km/h prends 20 min ($5/(15/60) = 20 min$) en supprimant les émissions,
+  - un trajet à pied à 7km/h prend 43 min ($5/(7/60) = 43 min$) en supprimant les émissions.
+- **L'avion**, il a révolutionné le transport entre les continents et permet de faire un Lille-Marseille en 1 h 35 min mais en émettant par passager $184,3 kgCO_{2eq}$^[17]
+  - un trajet en TGV prendra approximativement 3 fois plus de temps (5 h 08 min) en divisant d'un facteur 84 les émissions ($2,20kgCO_{2eq}$) selon la SNCF
+  - un trajet en voiture avec un passager prendra 6,5 fois plus de temps (9 h 45 min) en disant par moins de 2 les émissions ($96,60kgCO_{2eq}$)^[17]
+- **Les déchets**, ils génèrent également des GES de part leur transport et pour les ordures ménagère par le cycle de traitement (incinération ou enfouissement) $707,67 kgCO_{2eq}$^[24] :
+  - en achetant un maximum en vrac et en compostant les déchets organique réduit de 2/3 nos émissions^[24],
+  - en faisant ses produits ménager et cosmétique, en achetant des produits 100% ou en grande partie réutilisable on peut diviser à 3^[24].
+- **L'électroménager**, les étiquettes énergétiques change régulièrement, depuis mars 2021 on est retourner d'une note allant de A à F avec des seuils relevé. Ainsi un appareil A+++ peut être clasée B ou C^[25]. Vue qu'en France la production d'électricité est faiblement carboné, les émissions de GES seront principalement du à la production de ces appareils :
+  - 
+- **Le régime alimentaire**, sûrement le geste avec le rapport investissement/reduction le plus élevé. La production de viande de boeuf est la plus émettrice de GES($CH_{4}$ et $CO_{2}$), un boeuf demande beaucoup d'espace et de nourriture et bien souvent la nourriture est importé de très loin faisant grimper son empreinte carbone.
+  - 1kg de viande rouge émet $35,80 kgCO_{2eq}$,
+  - 1kg de poisson blanc émet $9,59 kgCO_{2eq}$,
+  - 1kg de volaille émet $5,16 kgCO_{2eq}$,  
+  - 1kg de poisson gras émet $4,03 kgCO_{2eq}$,
+  - 1kg d'oeuf émet $2,61 kgCO_{2eq}$,
+  - 1kg de tofu émet $0,98 kgCO_{2eq}$.
+
+> Note : Niveau nutritionnel, seule un régime 100% végétalien (céréales, légumineuses, fruits et légumes) comporte des risques de carence en vitamine B12, zinc et fer. Pour les personnes anémié il peut être dangereux de se passer de viande car c'est aliment qui contient le plus du fer facilement assimilable^[27].
+
+![Apports nutritionnels des principaux aliments](https://assets-decodeurs.lemonde.fr/decodeurs/medias/menusvegetariens/infog2.svg "Apports nutritionnels des principaux aliments")
+
 ## Références
 
 [1]: <https://bonpote.com/les-infographies-bon-pote/> "Bon Pote infographies"
@@ -203,3 +235,9 @@ En données d'entrée on prendra pour les véhicules :
 [19]: <https://www.lacentrale.fr/fiche-technique-auto.php> "Fiche auto la centrale"
 [20]: <https://www.bilans-ges.ademe.fr/documentation/UPLOAD_DOC_FR/index.htm?new_liquides.htm> "Émission directe carburant liquide"
 [21]: <https://www.convertir-unites.info/convertir+GJ+en+m3+Essence.php> "Convertir GJ en l essence"
+[22]: <http://www.planbatimentdurable.fr/comprendre-la-rt-2012-r174.html> "Comprendre la RT2012"
+[23]: <https://librairie.ademe.fr/changement-climatique-et-energie/998-40-trucs-et-astuces-pour-economiser-l-eau-et-l-energie-9791029712784.html#/44-type_de_produit-format_electronique> "40 Trucs et astuces de l'ADEME"
+[24]: <https://nosgestesclimat.fr/documentation> "Nos gest climat documentation"
+[25]: <https://fr.label2020.eu/la-nouvelle-etiquette-energie/caracteristiques-principales-des-nouvelles-etiquettes-energie/> "La nouvelle étiquette énergétique"
+[26]
+[27]: <https://www.lemonde.fr/les-decodeurs/article/2021/02/27/non-il-n-est-pas-necessaire-de-manger-de-la-viande-pour-etre-en-bonne-sante_6071378_4355770.html> "Peut on se passer de viande ?"

@@ -7,8 +7,7 @@
 *Dormez tranquilles jusqu’en 2100* ce livre écrit par Jean-Marc Jancovici, je ne l'ai pas encore lu, est une bonne accroche pour commencer cette présentation.
 
 On parle souvent de notre empreinte carbone, de la fin du monde, de la décroissance, des catastrophes naturelles. Certaines personnes, très souvent politisé, 
-vont accuser notre modèle néo-capitaliste occidentale et donc vous qui n'êtes pas éclairés.  
-Même si on ne peut nier que notre mode de vie est responsable de la plus part de notre impacte environmental. Il ne faut pas tombé dans l'écueil du :
+vont accuser notre modèle néo-capitaliste occidentale et donc vous qui n'êtes pas éclairés. Même si on ne peut nier que notre mode de vie est responsable de la plus part de notre impacte environmental. Il ne faut pas tombé dans l'écueil du :
 
 > Ce n'est pas faute ! Mais celle de la société !
 > Je suis la cause de tout les désastres à venir.

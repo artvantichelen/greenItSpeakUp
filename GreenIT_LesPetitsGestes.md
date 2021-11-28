@@ -233,34 +233,33 @@ Sur internet, dans les médias ou autour de discussions, on peut trouver de nomb
   | TV                        | 371,00                  | 1        |
   | Vidéo Projecteur          | 94,00                   | 0        |
  
- - En supposant un foyer de 3 personnes (2 adulte et un.e ado) on arrive à un total de $1,79 tCO_(2eqs)$ qui doivent être amortis dans le temps. Il est donc important de garder ses appareilles le plus longtemps possible et de les faire réparer. Le Black Friday n'est vraiment pas votre ami pour cela.
-- **Le régime alimentaire**, sûrement le geste avec le rapport investissement/reduction le plus élevé. La production de viande de bœuf est la plus émettrice de GES 
-($CH_{4}$ et $CO_{2}$), un bœuf demande beaucoup d'espace et de nourriture et bien souvent la nourriture est importé de très loin faisant grimper son empreinte carbone.
-  - 1kg de viande rouge émet $35,80 kgCO_{2eq}$,
-  - 1kg de poisson blanc émet $9,59 kgCO_{2eq}$,
-  - 1kg de volaille émet $5,16 kgCO_{2eq}$,  
-  - 1kg de poisson gras émet $4,03 kgCO_{2eq}$,
-  - 1kg d'œuf émet $2,61 kgCO_{2eq}$,
-  - 1kg de tofu émet $0,98 kgCO_{2eq}$.
+ - Pour un foyer de 3 personnes (2 adultes et un.e ado) l'électro-ménager, avant même d'avoir servi, a émis (en moyenne) $1,79 tCO_(2eqs)$. Il est donc préférable qu'il soit amorti dans le temps. Pour cela, il faut garder et réparer ses appareils le plus longtemps possible (Le Black Friday n'est vraiment pas votre ami).
+- **Le régime alimentaire**, sûrement le geste avec le rapport investissement/réduction le plus élevé. La production de viande de bœuf est la plus émettrice de GES 
+($CH_{4}$ et $CO_{2}$). En effet, un bœuf demande beaucoup d'espace et de nourriture. Bien souvent celle-ci est importée de très loin, faisant ainsi grimper l'empreinte carbone de la production de viande.
+  - 1kg de viande rouge produit en moyenne $35,80 kgCO_{2eq}$,
+  - 1kg de poisson blanc produit en moyenne $9,59 kgCO_{2eq}$,
+  - 1kg de volaille produit en moyenne $5,16 kgCO_{2eq}$,  
+  - 1kg de poisson gras produit en moyenne $4,03 kgCO_{2eq}$,
+  - 1kg d'œuf produit en moyenne $2,61 kgCO_{2eq}$,
+  - 1kg de tofu produit en moyenne $0,98 kgCO_{2eq}$.
 
-> Note : Niveau nutritionnel, seule un régime 100% végétalien (céréales, légumineuses, fruits et légumes) comporte des risques de carence en vitamine B12, zinc et fer. Pour les personnes anémié il peut être dangereux de se passer de viande car c'est aliment qui contient le plus du fer facilement assimilable^[26].
+> Note : Niveau nutritionnel, seul un régime 100% végétalien (céréales, légumineuses, fruits et légumes) comporte des risques de carence en vitamine B12, zinc et fer. Pour les personnes anémiées il peut être dangereux de se passer de viande car cet aliment contient beaucoup de fer facilement assimilable^[26].
 
 ![Apports nutritionnels des principaux aliments](https://assets-decodeurs.lemonde.fr/decodeurs/medias/menusvegetariens/infog2.svg "Apports nutritionnels des principaux aliments")
 
 ### Des bonnes intention mais...
 
-- *Faire confiance aux labels 'verts'* demande de connaître précisément les critères et l'autorité qui le délivre. Un labels n'est jamais obligatoire et donc placer dans un but commercial. En prenant l'example du label AB, il garantie qu'un produit alimentaire au moins 95% d'ingrédient d'origine agricole biologiques^[27] et produit dans l'UE. Ainsi une tomate génétiquement sélectionner pour sa résistance et poussant dans une serre chauffé au gaz en hiver en Espagne pourra apposer le label AB. Il est plus intéressant de réduire la chaîne d'approvisionnement en achetant au plus proche du producteur.
-- *Domotiser son logement* semble être une bonne solution pour faire des économies d'énergie. Vue que l'électricité en france est bas carbone le gain de consommation est minime 
-et pis encore, les solution constructeurs nous obliges à acheter un boîtier propriétaire qui doit resté en fonctionnement en permanence. En du faite d'acheter des nouvelles ampoules ou autre appareils électronique compatible. La dominique est néanmoins intéressante si elle permet de couper ou d'allumer certain appareille en fonction du mix énergétique de la production d'électricité et/ou de piloter son chauffage à distance.
-- *Acheter une hybride rechargeable ou SUV/Cross-over ayant une étiquette supérieure à B* est intéressant uniquement si on posséde déjà un véhicule du même gabarie qui à plus de 10 ans ou 210 000km. En effet les batterie ajoute du poids au véhicule ce qui demande alors plus d'energie pour ce déplacer ($E_{c}=1/2mv$) et le coefficient de pénétration dans l'air d'un SUV/Cross Over est bien plus élevé qu'un break.
-- *Passer du fioul au gaz pour le chauffage* apporte certes une réduction des GES, mais on remplace une énergie fossile par une autre qui n'est pas infinie. En fonction du budget et de l'habitation une chaudière à granulé, un poêle à bois, une pompe à chaleur ou des convecteur électrique à inertie feront bien mieux en émission de GES.
-- *Changer toutes ses ampoules fluo-compacte par des LED* ne permet qu'une faible économie de consommation (1%)^[5]. Le remplacement doit ce faire lorsque les ampoules sont cassées ou bien pour remplacer des ampoule à filament ou néons. 
+- *Faire confiance aux labels 'verts'* requiert des connaissances précises sur les critères utilisés et sur le degré de contraintes imposées par l'autorité qui délivre ce label. Un label n'est jamais obligatoire, il est souvent utilisé dans un but commercial. Prenons l'exemple du label AB: Pour un produit alimentaire, il garantit qu'au moins 95% des ingrédients sont d'origine agricole biologique^[27] et sont produits dans l'UE. Ainsi une tomate génétiquement sélectionnée pour sa résistance et poussant dans une serre chauffée au gaz en hiver en Espagne pourra apposer le label AB. Il peut être plus intéressant de réduire la chaîne d'approvisionnement en achetant au plus proche du producteur (en circuit court).
+- *Domotiser son logement* semble être une bonne solution pour faire des économies d'énergie. Cependant, comme l'électricité en France est bas carbone, cette action a des conséquences très faibles sur l'émission des GES. Cette solution est même assez dommageable en certains points puisqu'il faut acheter un boitier propriétaire afin d'utiliser les solutions constructeurs. Celui-ci doit rester en fonctionnement en permanence. Il faut ajouter à cela, l'achat de nouvelles ampoules ou autre appareils électroniques compatibles. La domotique est néanmoins intéressante pour piloter son chauffage à distance par exemple. Grâce à elle, il est aussi plus simple d'utiliser ses appareils lorsque les éventuels pics de consommation d'énergie sont passés.
+- *Remplacer sa voiture par une hybride rechargeable ou un SUV/Cross-over ayant une étiquette supérieure ou égal à B* est intéressant uniquement si l'ancien véhicule a plus de 10 ans, ou plus de 210 000 km ou si son gabarit est supérieur ou égal à la nouvelle. En effet, les batteries ajoutent du poids au véhicule. Se déplacer demande alors plus d'energie ($E_{c}=1/2mv$). Enfin, le coefficient de pénétration dans l'air d'un SUV/Cross Over est bien plus élevé qu'un break par exemple.
+- *Passer du fioul au gaz pour le chauffage* apporte certes une réduction des GES, mais on remplace une énergie fossile par une autre qui n'est pas infinie. En fonction du budget et de l'habitation une chaudière à granulé, un poêle à bois, une pompe à chaleur ou des convecteurs électriques seront plus efficaces pour réduire les émissions de GES.
+- *Changer toutes ses ampoules fluo-compactes par des LED* ne permet qu'une faible économie de consommation (1%)^[5]. Il est préférable de remplacer les ampoules cassées ou les ampoule à filament ou encore les néons. 
 
-> Note : En france il y a de nombreux organismes qui s'occupent de la collecte et du recyclage de vos vielle ampoules ou néon.
+> Note : En France il y a de nombreux organismes qui s'occupent de la collecte et du recyclage de vos vielles ampoules ou néon.
 
-- *Choisir un fournisseur d'électricité verte* ne garantie en aucun cas que l'électricité arrivant dans un logement est sans carbone. Les fournisseurs sont, en simplifié, des courtiers sur le marché européen de l'électricité. Ils achètent au près de centrales, principalement hydro-électrique, un certificat de production mais pas au moment où le logement en a eu besoin.
+- *Choisir un fournisseur d'électricité verte* ne garantit en aucun cas que l'électricité arrivant dans le logement n'a pas émis de carbone. En effet, l'électricité courante dans le réseau n'appartient encore à aucun fournisseur. Rien ne prouve que celle que j'utilise est celle que mon fournisseur paiera. 
 
-## Comment réduire son empreinte individuel ?
+## Comment réduire son empreinte individuelle ?
 
 Malheureusement penser que réduire son impact sera facile, ne demandera que peu de sacrifice et sans devoir investir est un leurre. La publication *Faire sa part*^[5] de carbone 4 est catégorique, sans investissement on ne peut réduire que 25% en faisant des des changement radicaux de mode vie et il descend à 10% pour des changements réalistes. Dans cette même publication on peut voir que les actions maximales activable par les ménages sans investissement sont de :
 
@@ -275,7 +274,7 @@ En prenant les propositions de Carbone 4, de l'ADEME et de l'association négaWa
 
 > Note : le scénario négaWatt de 2022 suppose une sobriété accrue des ménages et des industrie avec des hypothèses de technologies connues mais non industrielle. Ceci est  nécessaire pour un reseau d'approvisionnement électrique reposant uniquement sur des énergies non pilotables.
 
-## Des gestes avec peu d'investissement et demandent peu de sacrifice
+## Des gestes avec peu d'investissement et demandant peu de sacrifices
 
 - Connaître son empreinte carbone actuel sur [NosGestesClimat](https://nosgestesclimat.fr/ "NosGestesClimat") permet de faire un état de lieu de sa situation personnelle, le site vous proposera des action et des défis à réaliser pour améliorer votre score. Il est même possible d'apporter des amélioration avec un langage de programmation accessible.
 - Installer des thermostats programmable par zone d'occupation permet de chauffer que ce qui est nécessaire dans un logement. l'occupation d'un bureau ou de chambre n'est pas la même que celle d'une cuisine, d'un salon ou d'une salle de bain.

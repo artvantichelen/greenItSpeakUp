@@ -322,6 +322,51 @@ Concernant le véhicule principale, il faut éviter les formules location longue
 
 Lors du changement de véhicule il faut privilégier une motorisation 100% électrique, mais il faut aussi choisir un modèle léger dont la pénétration dans l'air est optimisé. Dans le cas d'une motorisation partiellement ou entièrement thermique il faut chercher à diminuer le poids et a augmenter l'aérodynamisme du véhicule. Le dernier point à prendre en compte sont les options qui doivent répondre à un critère d'utilité et de la configuration du véhicule.
 
+## La biodversité
+Vous êtes tous sensibilisés aux problèmes de changements climatiques grâce, entre autre, aux médias. Mais la perte de la biodversité est rarement considérée comme un problème équivalent à celui des émissions de GES. Mais si l'on réduit effectivement les émissions de GES pour suivre les recommendations du GIEC, il restera encore le problème de la diminution de l'IPV, et c'est loin d'être un moindre problème...
+Pour bien se rendre compte des conséquences de la perte du vivant sur notre planète, vous êtes invités à réaliser une fresque de la biodiversité^[30].
+
+### Quelques chiffres
+Voici quand même quelques chiffres pour vous repérer. 
+
+Tout d'abord, qu'est-ce que l'IPV? 
+Il s'agit de l'indice planète vivante, utilisé par de nombreux organismes gouvernementaux et inter-gouvernementaux. Il permet de suivre l'évolution du vivant sur Terre. Cependant, il se base majoritairement sur les vertébrés sur Terre, qui est le groupe le plus connu. Il calcule le taux de décroissance (ou croissance) des populations de toutes les espèces connues et en fait la moyenne. Depuis 1970, il a diminué de 68% au niveau mondial^[31].
+
+En France nous avons une réelle responsabilité vis-à-vis de la préservation de la biodiversité. En effet, 10% des espèces connues dans le monde, vivent, entre autre, en France (DROM-COM compris). On estime que 80% de la biodiversité vit en outre-mer. Mais pour l'instant, seules 85 238 espèces y sont connues contre  95 582 en métropole^[32]. Il y a encore du travail!
+
+Une particularité de la richesse en espèce d'une région, c'est qu'elle est d'autant plus forte qu'elle est proche des tropiques. A ce titre, 58% des espèces métropolitaines en France sont présentes dans les Alpes-Maritimes^[32]. Dans les Hauts-de-France, nous avons peu de diversité, il est d'autant plus important de la préserver...
+
+Pour finir, encore quelques chiffres^[32]:
+- 53 % des plantes liées aux insectes déclinent;
+- 22 % de déclin moyen des 10 oiseaux granivores les plus communs;
+- 9500 espèces et sous-espèces protégées sur le territoire Français selon l'INPN;
+- 50% de la surface des zones humides en France a disparu entre 1960 et 1990 selon l'état des lieux des Zones Humides.
+
+Les causes menaçant les espèces sont diverses et variées. Les plus importantes sont la destruction des habitats (notamment par l'urbanisation), la chasse (que ce soit par les chats ou par les humains); la pollution des eaux, l'arrivée d'espèces invasives, la présence de nombreux perturbateurs pour les espèces (Par exemple, la lumière est utilisée comme un repère. La nuit, les espèes y sont exposées et cela perturbe leur cycle ou leurs repères. En effet, 85% du territoire est exposé à un niveau élevé de nuisance lumineuse^[33])...
+
+### Dans mon jardin
+- Les plantes ornementales sont très prisées dans les jardins mais elles sont souvent exotiques. Elles ne comptent donc pas dans la biodiversité locale. De plus, elles peuvent parfois être envahissantes. Il existe de nombreuses espèces locales esthétiques qui décoreraient aussi bien votre jardin. Vous pouvez trouver des idées sur le site du Conservatoire Botanique National de Bailleul^[34] (CBNBL) pour les Hauts-de-France.
+- Les Espèces Exotiques Envahissantes sont des espèces exotiques dont l’introduction par l’homme, volontaire ou fortuite, sur un territoire, menace les écosystèmes, les habitats naturels ou les espèces indigènes avec des conséquences écologiques, économiques et sanitaires négatives. Le danger de ces espèces est qu’elles accaparent une part trop importante des ressources dont les espèces indigènes ont besoin pour survivre, ou qu’elles se nourrissent directement des espèces indigènes^[35]. Ces espèces doivent être éliminées entièrement car un simple rhizome restant peut leurs permettre de repartir. Seules certaines décharges vertes sont habilitées à les détruire. 
+- Il est inutile de tondre toutes les deux semaines. Même si cela vous titille quand il y a plus d'un centimètre d'herbe dans votre jardin car vous trouvez ça "moche", dites-vous que c'est une perception qui découle de l'habitude de voir des pelouses tondues ras. Ne pas tondre trop souvent a pour avantage de laisser certaines plantes à cycle rapide faire des graines et des fleurs qui enrichiront votre jardin. De plus, cela évitera aux autres espèces d'épuiser leurs ressources pour construire sans cesse de nouvelles feuilles. 
+- Les plantes n'ont pas besoin d'eau potable, pourquoi gaspiller celle que vous pouvez utiliser pour vous? 
+- La France est l'un des plus gros consommateur d'engrais chimique en Europe. Par exemple, en 2018, 18 millions de tonnes de fertilisants minéraux et organiques ont été commercialisés en France métropolitaine dont 11,5 millions de tonnes d’origine minérale, selon l’Observatoire pour la fertilisation minérale et organique. Les engrais minéraux (chimiques) qui se déversent ensuite dans les cours d'eau, lors du ruisselement des pluies, perturbent la biodiversité ripicole.
+- Le compost est un fertilisant naturel. Pourquoi acheter des intrants chimiques et jeter les feuilles qui sont un intrant naturel lorsqu'elles se décomposent? De plus, elles amèneront une faune du sol variée et nombreuse, travaillant à leur transformation en humus. 
+- Les insectes sont nécessaires à la pollinisation mais ils sont aussi à la base de nombreuses chaines alimentaires. Ils ne se réduisent pas uniquement aux abeilles domestiques. Il est possible d'en favoriser de nombreux autres. Construire un hôtel à insecte est une activité ludique pour les enfants, elle les sensibilisera à la protection de la nature.
+- L'hiver, de nombreux oiseaux ne migrent pas. Auparavant, ils pouvaient trouver assez facilement de la nourriture mais aujourd'hui, les espaces non construits se font rares et les populations d'espèces compétitives comme le pigeon, grandissent. Faire de petit nichoirs permet de favoriser les Mésanges, les Gros-bec, les Moineaux et d'autres passereaux. 
+- Lorsque l'on cultive toujours au même endroit, le sol s'appauvrit au fur et à mesure. Bouger la serre permet de limiter l'utilisation d'intrants et de laisser le temps au sol de se recharger en matière organique se décomposant pour recréer de l'humus. Cet humus conntient la nourriture pour les plantes. Cela implique de ne pas laisser le sol sans végétation (les mauvaises herbes feront très bien l'affaire...)
+
+### Dans ma maison et en vacances
+- Lorsque l'on construit une nouvelle maison passive, on agit pour la diminution des émissions de GES. Mais qu'en est-il des habitats naturels dont la surface diminue de plus en plus à cause de l'urbanisation? Cela entraîne immanquablement la diminution des populations d'espèces vivant dans ces habitats...
+- Apprendre à conaître la faune et la flore permet d'apprendre à prendre soin d'elle. Les scientifiques ont toujours besoin de données actualisées pour suivre l'évolution de la biodiversité. Ce peut être signaler la présence de hérissons, chauves-souris, écureuils dans votre jardin auprès d'associations locales par exemple.
+- Les chauves-souris en France sont en déclin. Elles subissent l'assaut des lumières persistantes pendant la nuit. Elles peuvent parfois s'épuiser de nombreuses heures autour d'un lampadaire, cela menant à leur mort. En outre, elles sont méconnues et mal-aimées car des légendes les présentaient autrefois comme des créatures de l'ombre. Laisser les combles accessibles aux chauves-souris participe à leur sauvegarde. Elles pourront venir y hiverner. Dans tous les cas, tuer une de ces petites bêtes est interdit et répréhensible car elles sont protégées. 
+- Les plantes et animaux exotiques peuvent devenir exotiques envahissants si les conditions climatiques leurs sont favorables. Par ailleurs, certaines peuvent aussi représenter un risque pour la santé publique. 
+- La Terre n'est pas une poubelle. Les déchets sont très nombreux partout. Ils ont de nombreuses incidences sur la vie des espèces. On connaît très bien, notamment par les médias, les problèmes que subissent les poissons avec les plastiques dans les océans. C'est aussi le cas dans les rivières, ou pour les oiseaux. Ajoutons à cela que les papiers contiennent parfois des encres qui peuvent être des produits toxiques pour les espèces. Les produits dans les mégots de cigarette sont toujours toxiques quant-à-eux... Les bouteilles sont des pièges pour de nombreux gastéropodes et pour la faune du sol. Chaque déchet jeté peut tuer plusieurs dizaines d'êtres vivants. Malheureusemnt, il y en a tellement que tous les ramsser semble une épreuve sans fin...
+- Le piétinement est une source de stress pour les plantes. Plus un espace est piétiné, moins il sera riche en espèces car il ne restera que les plus résistantes. Les animaux qui ont besoin de diversité sont liés aux habitats non piétinés. Pour éviter de trop impacter le vivant, autant limiter ce phénomène en se contentant de suivre le chemin.
+- Parfois une fleur peut être très belle, tellement que l'on voudrait la cueillir et la ramener chez soi... Grosse erreur! Vous pouvez avoir pris avec vous une plante protégée! Leur destruction (et donc leur cueillette) est interdite et elle est répréhensible. Pour permettre à ces espèces de se reproduire (pour ne pas disparaître), il faut les laisser accomplir leur cycle de reproduction complet (feuilles-fleurs-fruits-graines).
+- Certains médicaments contiennent des régulateurs hormonaux ou des substances toxiques pour les poissons. Après s'être retrouvées dans vos toilettes, ces substances sont emmenées dans les stations d'épuration. Mais, pour la plupart,
+-  les traitements qu'elles subissent ne les empêchent pas de se retrouver dans les rivières...
+- Privilégier la pêche durable est un moyen de garantir la reproduction suffisante des poissons en incitant les pécheurs à respeter des taux de pêches plus faibles. Si une espèce se reproduit moins vite qu'elle n'est prédatée, elle disparait.
+
 ## Références
 
 [1]: <https://bonpote.com/les-infographies-bon-pote/> "Bon Pote infographies"
@@ -353,3 +398,9 @@ Lors du changement de véhicule il faut privilégier une motorisation 100% élec
 [27]: <https://www.agencebio.org/wp-content/uploads/2018/10/regles_usage_marque_AB.pdf> "Règle d'usage marque AB"
 [28]: <https://youtu.be/goceQuwWwKA> "Video: Les dessous de l'électricité verte"
 [29]: <https://negawatt.org/IMG/pdf/synthese-scenario-negawatt-2022.pdf> "Synthèse scénario négaWatt 2022"
+[30]: <https://www.fresquedelabiodiversite.org/> La freque de la biodiversité
+[31]: <https://www.wwf.fr/rapport-planete-vivante> Rapport Planète Vivante 2020
+[32]: <chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Finpn.mnhn.fr%2Fdocs%2Fcommunication%2FlivretInpn%2FLIVRET_INPN_2019.pdf&clen=54868811&chunk=true> La biodiversité en France: 100 chiffres expliqués sur les espèces
+[33]: <https://ofb.gouv.fr/actualites/un-nouvel-indicateur-pour-mesurer-la-pollution-lumineuse#:~:text=Le%20nouvel%20indicateur%20de%20l,niveau%20%C3%A9lev%C3%A9%20de%20pollution%20lumineuse.> Un nouvel indicateur pour mesurer la pollution lumineuse
+[34]: <https://www.cbnbl.org/grainotheque> Grainothèque
+[35]: <https://www.ecologie.gouv.fr/especes-exotiques-envahissantes> Espèces Exotiques Envahissantes

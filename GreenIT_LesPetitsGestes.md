@@ -261,38 +261,37 @@ Sur internet, dans les médias ou autour de discussions, on peut trouver de nomb
 
 ## Comment réduire son empreinte individuelle ?
 
-Malheureusement, penser que réduire son impact sera facile, demandera ni sacrifice ni investissement est un leurre. La publication *Faire sa part*^[5] de carbone 4 est catégorique : sans investissement on ne peut réduire que 25% en faisant des changements radicaux de notre mode vie. Ce taux descend à 10% pour des changements dits “réalistes”. Dans cette même publication on peut constater que les actions maximales activables par les ménages sans investissement sont de :
+Malheureusement, penser que réduire son impact sera facile, demandera ni sacrifice ni investissement, est un leurre. La publication *Faire sa part*^[5] de carbone 4 est catégorique : sans investissements financiers mais en réalisant des changements radicaux de notre mode vie, on ne peut réduire que de 25% les émissions de GES. Ce taux descend à 10% pour des changements dits “réalistes”. Dans cette même publication, on peut constater que les actions maximales activables par les ménages sans investissements sont de :
 
 - $1,3 tCO_{2eq}$ pour l'alimentation (régime végétarien, achat local, zéro déchet et gourde),
 - $0,9 tCO_{2eq}$ pour la mobilité (vélo pour trajet de moins 10km, 100% covoiturage, ne plus prendre l'avion),
 - $0,5 tCO_{2eq}$ pour les biens et services (trois fois moins de vêtements neufs, électronique et hi-tech d'occasion),
 - $0,2 tCO_{2eq}$ pour le logement (baisser la température de consigne et équiper son logement d'éclairage LED).
 
-Par rapport aux $10,8 tCO_{2eq}$ d'émission cela représente qu'une baisse de 27% en changeant considérablement son mode de vie.
+Par rapport aux $10,8 tCO_{2eq}$ d'émission cela ne représente qu'une baisse de 27% en changeant considérablement son mode de vie.
 
-En prenant ces proposition, ainsi que celle de l'ADEME et de l'association négaWatt^[29] on peut arriver à répertorier les vrais gestes, actions et investissement à faire :
+En prenant ces propositions, ainsi que celle de l'ADEME et de l'association négaWatt^[29], on peut arriver à répertorier les vrais gestes, actions et investissements à réaliser pour faire diminuer les émissions de GES.
 
-> Note : le scénario négaWatt de 2022 suppose une sobriété accrue des ménages et des industries En outre, elles posent des hypothèses sur les technologies récentes mais n'ayant pas passé l’état industriel. Elle omet aussi le problème de concurrence d’utilisation des sols.
+> Note : le scénario négaWatt de 2022 suppose une sobriété accrue des ménages et des industries (diminution de notre consommation de pétrole dans notre quotidien qui est difficilement acceptable par la société). En outre, il pose des hypothèses sur les technologies récentes mais n'ayant pas été développé à l'échelle industrielle. Elle omet aussi le problème de concurrence d’utilisation des sols.
 
 ## Les premiers gestes
 
 - Connaître son empreinte carbone actuelle sur [NosGestesClimat](https://nosgestesclimat.fr/ "NosGestesClimat") permet de faire un état de lieu de sa situation personnelle. Le site propose des actions et des défis à réaliser pour réduire son empreinte. Il est même possible d'apporter des améliorations avec un langage de programmation accessible.
-- Installer des thermostats programmables par zone d'occupation permet un pilotage au plus proche des besoins d’un foyer. En effet l'occupation d'un bureau ou de chambre n'est pas la même que celle d'une cuisine, d'un salon ou d'une salle de bain.
-- Covoiturer pour son trajet domicile-travail répartie entre les occupants le coût et les émissions engendrées par ce trajet. Ceci peut se cumuler également avec l'utilisation d'un vélo ou d'une trottinette électrique pour des trajets de moins de 5 km. 
-- Prendre une carte de réduction à la SNCF peut paraître anecdotique mais cela incite les possesseurs à envisager le train à la place de la voiture ou de l’avion.
-- Éteindre ses appareils et ne pas laisser son ordinateur portable ou son smartphone sur le secteur permet d'éviter de gâcher de l'énergie. En l’absence de chargeurs dit "intelligents" capables de se couper automatiquement, l’utilisation de prise programmable est une solution pertinente.
-- Les labels étant nombreux et non obligatoires. Seule l'origine des produits peut devenir un critère objectif d’émission de GES. Si le signal d’achat se fait sur la proximité et non le prix, alors on est sur la bonne voie.
-- "Les antibiotiques, c'est pas automatique !" On peut paraphraser ce slogan “Les viandes durant les repas, c’est pas systématique !”. La grande distribution à certe permit à une large majorité de français d'avoir de la viande au moins une fois par jour dans son assiette. Pourtant les éleveurs français ont subi une crise sans précédent. En allant vers des circuits courts on peut manger de la viande de meilleure qualité et redonner confiance à nos éleveurs.
+- Installer des thermostats programmables par zone d'occupation permet un pilotage au plus proche des besoins d’un foyer. En effet l'occupation d'un bureau ou de chambres n'est pas la même que celle d'une cuisine, d'un salon ou d'une salle de bain.
+- Covoiturer pour son trajet domicile-travail répartit entre les occupants le coût et les émissions engendrées par ce trajet. Ceci peut se cumuler également avec l'utilisation d'un vélo ou d'une trottinette électrique pour des trajets de moins de 5 km. 
+- Prendre une carte de réduction à la SNCF peut paraître anecdotique mais cela nous incite à envisager le train à la place de la voiture ou de l’avion.
+- Éteindre ses appareils et ne pas laisser son ordinateur portable ou son smartphone sur le secteur permet d'éviter de gâcher de l'énergie. En l’absence de chargeurs dit "intelligents" capables de se couper automatiquement, l’utilisation de prises programmables est une solution pertinente.
+- Les labels étant nombreux et non obligatoires, seule l'origine des produits peut devenir un critère objectif d’émission de GES. Choisir son produit en fonction de la proximité de son origine et non selon le prix, permet d'affirmer que nous sommes sur la bonne voie.
+- "Les antibiotiques, c'est pas automatique !" On peut paraphraser ce slogan “Les viandes durant les repas, c’est pas systématique !”. La grande distribution a permis à une large majorité de français de manger de la viande au moins une fois par jour. Pourtant les éleveurs français ont subi une crise sans précédent. En allant vers des circuits courts on peut manger de la viande de meilleure qualité, peut-être moins souvent, mais cela vaut le coup si c'est pour redonner confiance à nos éleveurs.
 
 ## Les gestes demandant un changement de mentalité
 
-- S'il est difficile voire impossible d'avoir de la viande en circuit court et s'il n'y a pas de contre indications médicales, il est envisageable de réserver la viande uniquement 
-lors des sorties au restaurant ou chez des amis. Évidemment on peut choisir cette option directement par conviction.
-- Se fixer un objectif d'émissions de CO2 annuelle est un bon moyen pour gérer sa mobilité. Cet objectif doit être atteignable et dépend de votre localisation. [Mon Impact Transport](https://monimpacttransport.fr/ "Mon Impact Transport") et/ou des calculs au réel en utilisant le [tableau données d'entrées des véhicule](#et-lhumain) ainsi que les émissions du véhicule (V.7 sur la carte grise), permettent de suivre vos émissions tout au long de l’année.
-- Se passer des grandes surfaces serait l'idéal mais se limiter uniquement aux produits non alimentaires est déjà un grand pas. Attention toutefois aux achats en ligne et aux grossistes qui vendent des produits pas de saisons.
-- Une bonne tartiflette c'est bon et c'est encore meilleure lorsqu'on l’a réussie. Il ne faut pas tomber dans l'écueil du 100% home made et acheter du matériel faisant grimper l'empreinte de l'équipement électro-ménager.
-- La réutilisation est très bien pour diminuer l'empreinte carbone des biens et des services. Cependant certains objets du quotidien vont se heurter à notre acceptabilité. Si les couches, serviette hygiénique et culotte menstruelle lavables font leur chemin. Sommes nous prêt à utiliser à nous essuyer les fesses avec du tissu ?
-- Le sèche linge rend beaucoup de service, mais si un logement disposant d'un espace extérieur et intérieur pour faire sécher le linge peut envisager de s’en passer, même si parfois les pulls mettent plusieurs jours à sécher. La même question peut se poser sur la télévision À l’heure des portails de VOD, YouTube, Twitch, etc. Revendre sa télévision et acheter un projecteur émettant 4 fois moins émetteur de CO2.
+- S'il est difficile, voire impossible, d'acheter de la viande en circuit court et s'il n'y a pas de contre indications médicales, il est envisageable de réserver la viande uniquement aux restaurant ou chez des amis. Évidemment on peut choisir cette option directement par conviction.
+- Se fixer un objectif d'émissions de CO2 annuel est un bon moyen pour gérer sa mobilité. Cet objectif doit être atteignable et dépend de votre localisation. [Mon Impact Transport](https://monimpacttransport.fr/ "Mon Impact Transport") et/ou des calculs au réel en utilisant le [tableau données d'entrées des véhicule](#et-lhumain) ainsi que les émissions du véhicule (V.7 sur la carte grise), permettent de suivre vos émissions tout au long de l’année.
+- Se passer des grandes surfaces serait l'idéal mais se limiter uniquement aux produits non alimentaires est déjà un grand pas. Attention toutefois aux achats en ligne et aux grossistes qui vendent des produits qui ne sont pas de saisons.
+- Une bonne tartiflette c'est bon et c'est encore meilleur lorsqu'on l’a faite soi-même. Ce peut-être le cas aussi pour le pain, mais attention, il ne faut pas tomber dans l'écueil du 100% home made et acheter du matériel faisant grimper l'empreinte de l'équipement électro-ménager.
+- La réutilisation est très bien pour diminuer l'empreinte carbone des biens et des services. Cependant certains objets du quotidien vont se heurter à notre acceptabilité. Si les couches, serviettes hygiéniques et culottes menstruelles lavables font leur chemin, sommes nous tous prêts à les utiliser. Pour certains, il y a u bloquage psychologique à ne pas négliger. De plus, certaines choses sont difficilement remplçables par du durable. En effet, pourrons-nous nous passer de papiers-toilettes, sommes nous prêt à nous essuyer les fesses avec du tissu et à passer notre temps à le laver ?
+- Le sèche linge rend beaucoup de services, mais n'est pas nécessaire si un logement disposant d'un espace extérieur et intérieur pour faire sécher le linge existe, même si, parfois, les pulls mettent plusieurs jours à sécher. La même question peut se poser sur la télévision, à l’heure des portails de VOD, YouTube, Twitch, etc... Revendre sa télévision et acheter un projecteur émettant 4 fois moins de CO2 peut s'avérer être une bonne idée.
 - En parler avec ses proches pour les sensibiliser est peut-être la chose la plus difficile car on se heurte à l'acceptabilité et aux certitudes des autres. Cela demande de la pédagogie et de l'empathie.
 
 ## Investir pour décarboner
@@ -301,25 +300,25 @@ lors des sorties au restaurant ou chez des amis. Évidemment on peut choisir cet
 
 Dès 2023 les logements de classe G ne pourront plus être loués. Même pour un logement classé D ou E, il est pertinent d'investir dans une rénovation thermique globale. Il y a cependant un ordre à respecter :
 
-1. isolation avec des matériaux biosourcés (Tout sauf laine de verre, laine de roche et polystyrènes) :
-   1. toiture,
-   2. murs donnant sur l'extérieur,
+1. Isolation avec des matériaux biosourcés (Tout sauf laine de verre, laine de roche et polystyrènes) :
+   1. Toiture,
+   2. Murs donnant sur l'extérieur,
    3. Plancher bas,
    4. Huisserie.
-2. production de chaleur :
-   1. remplacer la chaudière gaz/fioul par une pompe à chaleur, radiateur à inertie sèche ou chaudière à bois,
-   2. remplacer le ballon d'eau chaude par un chauffe-eau solaire et électrique.
-3. autres logement :
-   1. faire comme la résidence principale,
-   2. éviter que le logement reste vacant pour rentabiliser l’investissement
+2. Production de chaleur :
+   1. Remplacer la chaudière gaz/fioul par une pompe à chaleur, un radiateur à inertie sèche ou une chaudière à bois,
+   2. Remplacer le ballon d'eau chaude par un chauffe-eau solaire et électrique.
+3. Autres logements :
+   1. Faire comme la résidence principale,
+   2. Eviter que le logement ne reste vacant pour rentabiliser l’investissement.
 
-> Note : Le mix énergétique d'électricité étant bas carbone, l’installation de mini central électrique ENR est, dans la plus cas, pas pertinente en France. Elle peut le devenir si l’électricité produite sert à recharger les batteries d’une voiture, d’un vélo, d’une trottinette électrique ou encore a alimenté en électricité un chauffe-eau.
+> Note : Le mix énergétique d'électricité étant bas carbone, l’installation de mini-centrales électriques ENR n'est, dans la pluspart des cas, pas pertinente en France. Elle peut le devenir si l’électricité produite sert à recharger les batteries d’une voiture, d’un vélo, d’une trottinette électrique ou encore a alimenter en électricité un chauffe-eau.
 
 ### Les véhicules
 
 Il convient de se poser la question de la réelle utilité d'une seconde voiture. Des solutions plus économiques existent : les vélos cargos à assistance électrique,les mini voitures comme la TWIZY ou l’Ami. La voiture principale doit être envisagée comme dernière solution pour un déplacement. Évidemment dans certains cas la seconde voiture est essentielle et aucune autre solution n'est envisageable.  
 
-Concernant le véhicule principal, il faut éviter les formules location longue durée et voire la location avec option d'achat comme une obligation d'achat. Tout comme les appareils électroniques une voiture à une empreinte non négligeable à la fabrication qu'il faut amortir. Les constructeurs dimensionnent leur véhicule pour 20 ans ou 250 000km. Si le véhicule à moins de 10 ans, il est urgent d'attendre avant de le changer, sauf si la famille s'agrandit et que le véhicule ne répond pas au besoin de mobilité.  
+Concernant le véhicule principal, il faut éviter les formules location longue durée et voire la location avec option d'achat comme une obligation d'achat, pour ne pas changer toujours de voitures et éviter d'inciter à la production de nouvelles voitures. Tout comme les appareils électroniques une voiture à une empreinte non négligeable à la fabrication qu'il faut amortir. Les constructeurs dimensionnent leur véhicule pour 20 ans ou 250 000km. Si le véhicule à moins de 10 ans, il est urgent d'attendre avant de le changer, sauf si la famille s'agrandit et que le véhicule ne répond pas au besoin de mobilité.  
 
 Lors du changement de véhicule, il faut privilégier une motorisation 100% électrique, mais il faut aussi choisir un modèle léger dont la pénétration dans l'air est optimisée. Dans le cas d'une motorisation partiellement ou entièrement thermique, il faut chercher à diminuer le poids et à augmenter l'aérodynamisme du véhicule. Le dernier point à prendre en compte sont les options qui doivent répondre à un critère d'utilité et de la configuration du véhicule.
 
@@ -327,15 +326,15 @@ En résumé, il faut déconstruire l’image que l’on se fait de la voiture co
 
 ## La biodiversité
 
-Si le réchauffement climatique est à présent relayer dans les médias et la presse. La perte de la biodiversité est rarement considérée comme un problème équivalent à celui des émissions de GES. Mais si l'on réduit effectivement les émissions de GES pour suivre les recommandations du GIEC, il reste encore le problème de la diminution de l’Indice de Planète Vivante (IPV) dont seules quelques personnes ont entendu parler. Pour bien se rendre compte des conséquences de la perte du vivant sur notre planète, il y a l’excellent atelier: la fresque de la biodiversité^[30] dont il est recommandé d'y participer.
+Si le réchauffement climatique est, à présent, relayé dans les médias et la presse, la perte de la biodiversité est rarement considérée comme un problème équivalent à celui des émissions de GES. Mais si l'on réduit effectivement les émissions de GES pour suivre les recommandations du GIEC, il reste encore le problème de la diminution de l’Indice de Planète Vivante (IPV) dont seules quelques personnes ont entendu parler. Pour bien se rendre compte des conséquences de la perte du vivant sur notre planète, il y a l’excellent atelier: la fresque de la biodiversité^[30] dont il est recommandé d'y participer.
 
 ### Quelques chiffres
 
-IPV est utilisé par de nombreux organismes gouvernementaux et inter-gouvernementaux. Il permet de suivre l'évolution du vivant sur Terre. Cependant, il se base majoritairement sur les vertébrés sur Terre, qui est le groupe le plus connu. Il calcule le taux de décroissance (ou croissance) des populations de toutes les espèces connues et en fait la moyenne. Depuis 1970, il a diminué de 68% au niveau mondial^[31].  
+L'IPV est utilisé par de nombreux organismes gouvernementaux et inter-gouvernementaux. Il permet de suivre l'évolution du vivant sur Terre. Cependant, il se base majoritairement sur les vertébrés sur Terre, qui est le groupe le plus connu. Il calcule le taux de décroissance (ou croissance) des populations de toutes les espèces connues et en fait la moyenne. Depuis 1970, il a diminué de 68% au niveau mondial^[31].  
 
-En France à une réelle responsabilité vis-à-vis de la préservation de la biodiversité. En effet, 10% des espèces connues dans le monde, vivent, entre autres, en France (DROM-COM compris). On estime que 80% de la biodiversité vit en outre-mer. Mais pour l'instant, seules 85 238 espèces y sont connues contre  95 582 en métropole^[32].   
+La France a une réelle responsabilité vis-à-vis de la préservation de la biodiversité. En effet, 10% des espèces connues dans le monde, vivent, entre autres, en France (DROM-COM compris). On estime que 80% de la biodiversité vit en outre-mer. Mais pour l'instant, seules 85 238 espèces y sont connues contre  95 582 en métropole^[32].   
 
-Une particularité de la richesse en espèce d'une région, c'est qu'elle est d'autant plus forte qu'elle est proche des tropiques. A ce titre, 58% des espèces métropolitaines en France sont présentes dans les Alpes-Maritimes^[32]. Dans les Hauts-de-France, nous avons peu de diversité, il est d'autant plus important de la préserver.
+Une particularité de la richesse en espèce d'une région, c'est qu'elle est d'autant plus forte qu'elle est proche des tropiques. A ce titre, 58% des espèces métropolitaines françaises sont présentes dans les Alpes-Maritimes^[32]. Dans les Hauts-de-France, nous avons peu de diversité, il est d'autant plus important de la préserver.
 
 Des chiffres en vrac^[32] :
 
@@ -350,7 +349,7 @@ Les causes menaçant les espèces sont diverses et variées. Les plus importante
 
 - Les plantes ornementales sont très prisées dans les jardins mais elles sont souvent exotiques. Elles ne comptent donc pas dans la biodiversité locale. De plus, elles peuvent parfois être envahissantes. Il existe de nombreuses espèces locales esthétiques dont l’entretien dans un jardin sera des plus facile. Le site du Conservatoire Botanique National de Bailleul^[34] (CBNBL) pour les Hauts-de-France propose une grainothèque permettant de planter des espèces d'intérêt écologique et patrimonial.
 - Les Espèces Exotiques Envahissantes (EEE) sont des espèces exotiques dont l’introduction par l’homme, volontaire ou fortuite, sur un territoire, menace les écosystèmes, les habitats naturels ou les espèces indigènes avec des conséquences écologiques, économiques et sanitaires négatives. Le danger de ces espèces est qu’elles accaparent une part trop importante des ressources dont les espèces indigènes ont besoin pour survivre, ou qu’elles se nourrissent directement des espèces indigènes^[35]. Ces espèces doivent être éliminées entièrement car un simple rhizome restant peut leur permettre de repartir. Seules certaines décharges vertes sont habilitées à les détruire. 
-- Il est inutile de tondre toutes les deux semaines. Même si on trouve ça "moche", cecii découle de l'habitude de voir des pelouses tondues ras. Ne pas tondre trop souvent a pour avantage de laisser certaines plantes à cycle rapide faire des graines et des fleurs qui enrichiront le jardin. De plus, cela évitera aux autres espèces d'épuiser leurs ressources pour construire sans cesse de nouvelles feuilles. 
+- Il est inutile de tondre toutes les deux semaines. Même si on trouve ça "moche", ceci découle de l'habitude de voir des pelouses tondues ras. Ne pas tondre trop souvent a pour avantage de laisser certaines plantes à cycle rapide faire des graines et des fleurs qui enrichiront le jardin. De plus, cela évitera aux autres espèces d'épuiser leurs ressources pour construire sans cesse de nouvelles feuilles. 
 - Les plantes n'ont pas besoin d'eau potable et cette eau est rare. L’eau de pluie ne coûte rien et les plantes ne verront pas la différence. 
 - La France est l'un des plus gros consommateurs d'engrais chimique en Europe. Par exemple, en 2018, 18 millions de tonnes de fertilisants minéraux et organiques ont été commercialisés en France métropolitaine dont 11,5 millions de tonnes d’origine minérale, selon l’Observatoire pour la fertilisation minérale et organique. Les engrais minéraux (chimiques) qui se déversent ensuite dans les cours d'eau, lors du ruissellement des pluies, perturbent la biodiversité ripicole.
 - Le compost est un fertilisant naturel. Pourquoi acheter des intrants chimiques et jeter les feuilles qui sont un intrant naturel lorsqu'elles se décomposent? De plus, elles amèneront une faune du sol variée et nombreuse, travaillant à leur transformation en humus. 
@@ -361,7 +360,7 @@ Les causes menaçant les espèces sont diverses et variées. Les plus importante
 ### Dans ma maison et en vacances
 
 - Lorsque l'on construit une nouvelle maison passive, on agit pour la diminution des émissions de GES. Mais qu'en est-il des habitats naturels dont la surface diminue de plus en plus à cause de l'urbanisation? Cela entraîne immanquablement la diminution des populations d'espèces vivant dans ces habitats.
-- Apprendre à connaître la faune et la flore permet d'apprendre de prendre soin d'elle. Les scientifiques ont toujours besoin de données actualisées pour suivre l'évolution de la biodiversité. Ce peut être signaler la présence de hérissons, chauves-souris, écureuils dans son jardin auprès d'associations locales par exemple.
+- Apprendre à connaître la faune et la flore permet d'apprendre à prendre soin d'elle. Les scientifiques ont toujours besoin de données actualisées pour suivre l'évolution de la biodiversité. Ce peut être signaler la présence de hérissons, chauves-souris, écureuils dans son jardin auprès d'associations locales par exemple.
 - Les chauves-souris en France sont en déclin. Elles subissent l'assaut des lumières persistantes pendant la nuit. Elles peuvent parfois s'épuiser de nombreuses heures autour d'un lampadaire, cela menant à leur mort. En outre, elles sont méconnues et mal-aimées car des légendes les présentaient autrefois comme des créatures de l'ombre. Laisser les combles accessibles aux chauves-souris participe à leur sauvegarde. Elles pourront venir y hiverner. Dans tous les cas, tuer une de ces petites bêtes est interdit et répréhensible car elles sont protégées. 
 - Les plantes et animaux exotiques peuvent devenir exotiques envahissants si les conditions climatiques leurs sont favorables. Par ailleurs, certaines peuvent aussi représenter un risque pour la santé publique. 
 - La Terre n'est pas une poubelle. Les déchets sont très nombreux partout. Ils ont de nombreuses incidences sur la vie des espèces. On connaît très bien, notamment par les médias, les problèmes que subissent les poissons avec les plastiques dans les océans. C'est aussi le cas dans les rivières, ou pour les oiseaux. Ajoutons à cela que les papiers contiennent parfois des encres qui peuvent être des produits toxiques pour les espèces. Les produits dans les mégots de cigarette sont toujours toxiques quant-à-eux... Les bouteilles sont des pièges pour de nombreux gastéropodes et pour la faune du sol. Chaque déchet jeté peut tuer plusieurs dizaines d'êtres vivants. Malheureusement, il y en a tellement que tous les ramasser semble une épreuve sans fin.

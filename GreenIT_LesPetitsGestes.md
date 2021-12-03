@@ -1,5 +1,36 @@
 # Green IT : Les petits gestes
 
+Ce document est un complément de la présentation [Green IT: les vrais petits gestes](https://prezi.com/view/qpvCT5y3PdddpkdkU7Z4).  
+Si des erreurs ou des fautes sont présentes, n'hésitez pas à faire une PR.
+
+- [Green IT : Les petits gestes](#green-it--les-petits-gestes)
+  - [Les bonnes nouvelles](#les-bonnes-nouvelles)
+    - [Introduction](#introduction)
+    - [CO2 je te hais, mais comment s'en passer](#co2-je-te-hais-mais-comment-sen-passer)
+    - [Chauffe Marcel](#chauffe-marcel)
+    - [2050](#2050)
+  - [Le green IT notre sauveur](#le-green-it-notre-sauveur)
+    - [Les origines](#les-origines)
+    - [En pratique](#en-pratique)
+    - [Et l'humain](#et-lhumain)
+  - [Vous](#vous)
+    - [Se situer](#se-situer)
+    - [Des bonnes intentions mais](#des-bonnes-intentions-mais)
+  - [Comment réduire son empreinte individuelle ?](#comment-réduire-son-empreinte-individuelle-)
+  - [Les premiers gestes](#les-premiers-gestes)
+  - [Les gestes demandant un changement de mentalité](#les-gestes-demandant-un-changement-de-mentalité)
+  - [Investir pour décarboner](#investir-pour-décarboner)
+    - [Le logement](#le-logement)
+    - [Les véhicules](#les-véhicules)
+  - [La biodiversité](#la-biodiversité)
+    - [Quelques chiffres](#quelques-chiffres)
+    - [Dans mon jardin](#dans-mon-jardin)
+    - [Dans ma maison et en vacances](#dans-ma-maison-et-en-vacances)
+  - [Références](#références)
+  
+Licence : [CREATIVE COMMONS BY](LICENSE.txt "legal code")
+![Creative Common BY-Zero](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/320px-CC-BY_icon.svg.png "cc-by-zero")
+
 ## Les bonnes nouvelles
 
 ### Introduction
@@ -15,10 +46,12 @@ Le monde n'est ni tout blanc, ni tout noir mais fait d'une multitude de nuances 
 
 ### CO2 je te hais, mais comment s'en passer
 
-Première bonne nouvelle: 
+Première bonne nouvelle:
+
 - dans une Europe à 27 pays, La France se situe à la 11^ème place des pays les moins émetteur de CO2 ($10,1 tCO_{2eq}$)^[1].
 
 Si l'on se compare à nos voisins ayant un développement économique et industriel équivalent :
+
 - Nous émettons un peu plus de CO2 que l'Italie ($9,9 tCO_{2eq}$)^[1],
 - Nous émettons beaucoup moins de CO2 que l'Allemagne ($14,6 tCO_{2eq}$)^[1],
 - Nous émettons beaucoup plus de CO2 que l'Espagne ($8,8 tCO_{2eq}$)^[1].
@@ -27,7 +60,8 @@ Au niveau mondial, l'UE fait office d'exemple. Depuis 2008, que ce soit en produ
 ![Comparaison émissions de $CO_2$](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/image/comparaison-internationale-emissions-CO2-CGDD.svg "Comparaison émissions de $CO_2$")
 
 C'est une bonne nouvelle, mais en 2008 il se produit 2 événements :
-1. La crise des Subprimes entraînant un fort ralentissement des investissements;
+
+1. La crise des Subprimes entraînant un fort ralentissement des investissements.
 2. Le passage symbolique des 100$US avec un record de 147$US le 11/07/08^[3] sur le prix du baril conduit à une adaptation des comportements individuels et au début des politiques environnementales;
 3. Le franchissement du pic d’extraction de pétrole conventionnel^[4] selon l'IAE.
 
@@ -39,6 +73,7 @@ Ainsi, que nous le décidions ou non, il faudra toujours faire avec moins de pé
 
 En zoomant sur la France et en s'intéressant sur la répartition de nos émissions de $CO_2$ on remarque :
 ![Empreinte carbone de la France](https://bonpote.com/wp-content/uploads/2021/05/1.Empreinte-carbone-1-768x725.jpg "Empreinte carbone de la France")
+
 - 10% de nos émissions sont hors de notre champ d'action^[1]
 - 90% restant se répartissent de la façon suivante^[1] :
   1. Transport (31%).
@@ -48,7 +83,8 @@ En zoomant sur la France et en s'intéressant sur la répartition de nos émissi
   5. Équipements et habillement (8%).
 
 Deuxième bonne nouvelle:
-- nous pourrions agir directement sur 90% de nos émissions de $CO_2$, ce qui est de bonne augure pour descendre à $2 tCO_{2eq}/hab$ comme la actée la COP de paris en 2015. 
+
+- nous pourrions agir directement sur 90% de nos émissions de $CO_2$, ce qui est de bonne augure pour descendre à $2 tCO_{2eq}/hab$ comme la actée la COP de paris en 2015.
 
 Cependant le cabinet de conseil Carbone 4 dans son rapport *Faire sa part ?* estime qu'un engagement dit 'héroïque', avec des investissements pour décarboner son mode vie, ne permet de diminuer que de 45%^[5] l'empreinte carbone globale d'un français ou d'une française.
 
@@ -61,6 +97,7 @@ Avec la COP 26, qui a eu lieu en 2021, les pays ont redit leur volonté de limit
 Mais finalement que signifie 2, 3 ou 5°C de plus ?
 
 Première mauvaise nouvelle:
+
 - notre corps est un très mauvais thermomètre. Il est difficile pour lui de percevoir une variation de quelques degrés. De plus, on parle de température moyenne sur une échelle de temps de 3 siècles ($XIX^{ème}$ - $XXI^{ème}$).  
 
 Une élévation moyenne de la température terrestre de 5°C s'est produite entre -11 700 ans^[6] et le $XIX^{ème}$ siecle. Au plus fort de la période glacière Würm, il était possible de se rendre en Grande-Bretagne à pieds comme le montre la carte ci-dessous :
@@ -71,17 +108,16 @@ Cette évolution sur plus d'une dizaine de milliers d'années a permis une augme
 Si on suit la trajectoire actuelle, la même élévation de température se réalisera en l'espace de moins de 200 ans. Un tel réchauffement en un laps de temps aussi court aurait des conséquences difficilement imaginables. Si l'on regarde cette image, on voit que les conséquences de la hausse de la température sur les changements environnementaux ne sont pas proportionnelles. Ils sont exponentiels en fonction de la température. Bien qu'une augmentation de 5°C ait de lourdes conséquences, si l'on limite le réchauffement à 1,5 - 3°C, cela suffirait pour diminuer l'impact de celui-ci sur la Terre. ![Pourquoi rester sous les 2°C ?](https://bonpote.com/wp-content/uploads/2021/05/Carbon_brief_test_15-768x769.png "Pourquoi rester sous les 2°C ?")
 
 Dans cette illustration, en se focalisant uniquement sur la France et en prenant une hausse de 1,5°C, nous avons :
+
 - Presqu'une chance sur 2 d'avoir une température moyenne estivale supérieure aux records enregistrés entre 1950 et 2017;
 - Plus de 2 semaines par an avec une température minimale la nuit supérieure à 20°C.
 
-Tout degré de température supplémentaire implique un stockage de 20% de plus de vapeur d'eau dans l'atmosphère et celle-ci est le principal gaz à effet de serre. C'est à cause d'elle que les changements globaux augmentent de façon plus ou moins exponentielle avec la température. Sans la vapeur d'eau on estime que la température de la terre serait de -18°C^[8]. 
-Heureusement le cycle de l'eau la fera retomber sur Terre, mais sous forme de violentes pluies. De plus, le gradient de température entre le sol (troposphère) et l'atmosphère (stratosphère), va s'accentuer, créant ainsi des mouvements convectifs d'air, mouvements violents et plus importants (cyclone, tornade, typhon...).
+Tout degré de température supplémentaire implique un stockage de 20% de plus de vapeur d'eau dans l'atmosphère et celle-ci est le principal gaz à effet de serre. C'est à cause d'elle que les changements globaux augmentent de façon plus ou moins exponentielle avec la température. Sans la vapeur d'eau on estime que la température de la terre serait de -18°C^[8]. Heureusement le cycle de l'eau la fera retomber sur Terre, mais sous forme de violentes pluies. De plus, le gradient de température entre le sol (troposphère) et l'atmosphère (stratosphère), va s'accentuer, créant ainsi des mouvements convectifs d'air, mouvements violents et plus importants (cyclone, tornade, typhon...).
 
 Bonne nouvelle tout de même (enfin tout dépend où l'on se trouve), l'Europe devrait mieux s'en sortir que les pays proches de l'équateur. Là-bas, la température et le taux d'humidité extérieurs seront suffisants pour que quiconque ne se trouvant pas dans un environnement contrôlé, subisse la même mort que les personnes âgées lors de la canicule de 2003^[7].
 ![Nombre jour mortel pour l'humain](https://img.lemde.fr/2017/06/15/0/0/635/230/664/0/75/0/ae0c102_12566-a1oldw.pq0pl7syvi.PNG "Nombre jour mortel pour l'humain")
 
-La cartographie ci-dessus a été réalisée à partir des travaux du GIEC et publiée dans une revue scientifique à comité de lecture *Nature Climate Change*. La cartographie (a) se base sur un scénario de +1,5°C alors que l'autre sur un scénario de +5°C. Les morts surviendront par défaut de régulation thermique, autrement dit l'être humain n'aura plus la possibilité de réguler la température de son corps en en évacuant la chaleur.   
-
+La cartographie ci-dessus a été réalisée à partir des travaux du GIEC et publiée dans une revue scientifique à comité de lecture *Nature Climate Change*. La cartographie (a) se base sur un scénario de +1,5°C alors que l'autre sur un scénario de +5°C. Les morts surviendront par défaut de régulation thermique, autrement dit l'être humain n'aura plus la possibilité de réguler la température de son corps en en évacuant la chaleur.
 
 ### 2050
 
@@ -111,8 +147,8 @@ Vous ne verrez pas de votre vivant les effets de vos actions de réduction de l'
 
 Le green IT ne se focalise pas uniquement sur la tech ou le code. Toute entreprise travaillant avec du matériel informatique peut appliquer des mesures du green IT^[11].  
 
-Pour une ESN ou une société disposant d'un serveur, il est possible d'estimer les émissions de $CO_2$ qu'il produit. 
-Sachant que les serveurs actuels consomment une puissance de 170 W chacun^[12] d'une part. En prenant une hypothèse de fonctionnement d'un serveur sur toute l'année, il consomme 1 489 kWh/an (170*365*24). D'autre part, 1 kWh d'électricité n'a pas la même empreinte carbone d'un pays à l'autre. En effet, ceux-ci ne produisent pas l'électricité de la même manière (pétrole, charbon, nucléaire, renouvelables... avec des parts différentes pour chaque moyen selon les pays).
+Pour une ESN ou une société disposant d'un serveur, il est possible d'estimer les émissions de $CO_2$ qu'il produit.  
+Sachant que les serveurs actuels consomment une puissance de 170 W chacun^[12] d'une part. En prenant une hypothèse de fonctionnement d'un serveur sur toute l'année, il consomme 1 489 kWh/an (170*365*24). D'autre part, 1 kWh d'électricité n'a pas la même empreinte carbone d'un pays à l'autre. En effet, ceux-ci ne produisent pas l'électricité de la même manière (pétrole, charbon, nucléaire, renouvelables... avec des parts différentes pour chaque moyen selon les pays).  
 En multipliant la production de $CO_2$ (lors de la création d'électricité) selon les pays par la consommation en kWh de d'un serveur[13] on obtient:
 
 1. Serveur français : $89,34 kgCO_{2eq}$.
@@ -121,7 +157,7 @@ En multipliant la production de $CO_2$ (lors de la création d'électricité) se
 4. Serveur des Royaumes-Unis : $680,47 kgCO_{2eq}$.
 5. Serveur des Etats-Unis : $777,26 kgCO_{2eq}$.
 
-Ainsi un serveur hébergé en France émettra presque 10 fois moins qu'un même serveur hébergé aux Etats-Unis. Il est donc intéressant dans un contexte de cloudification de choisir d'héberger ses applications sur des serveurs dont le mix énergétique est faiblement émetteur de $CO_2$. 
+Ainsi un serveur hébergé en France émettra presque 10 fois moins qu'un même serveur hébergé aux Etats-Unis. Il est donc intéressant dans un contexte de cloudification de choisir d'héberger ses applications sur des serveurs dont le mix énergétique est faiblement émetteur de $CO_2$.
 
 Quid alors de résilience en cas d'incendie ou de catastrophes. Quid également du temps de latence.
 
@@ -207,7 +243,7 @@ Sur internet, dans les médias ou autour de discussions, on peut trouver de nomb
   - en achetant un maximum en vrac et en compostant des déchets organiques, on réduit de 2/3 nos émissions^[24],
   - en faisant ses produits ménagers et cosmétiques, en achetant des produits 100% ou majoritairement réutilisables les émissions sont divisés par 3^[24].
 - **L'électroménager et numérique**, les étiquettes énergétiques changent régulièrement. Depuis mars 2021, les notes vont à nouveau de A à F avec des seuils relevés. Ainsi un appareil A+++ vendu avant 2021 peut être classé B ou C^[25]. Puisque la production d'électricité est faiblement carbonée en France, les émissions de GES sont principalement dues à la production de ces appareils :
-
+  - Pour un foyer de 3 personnes (2 adultes et un.e ado) l'électro-ménager, avant même d'avoir servi, a émis (en moyenne) $1,79 tCO_(2eqs)$. Il est donc préférable qu'il soit amorti dans le temps. Pour cela, il faut garder et réparer ses appareils le plus longtemps possible (Le Black Friday n'est vraiment pas votre ami).
   | Appareil                  | Émission ($kgCO_{2eq}$) | Quantité |
   |:--------------------------|------------------------:|:--------:|
   | Réfrigérateur-congélateur | 25,70                   | 1        |
@@ -232,10 +268,8 @@ Sur internet, dans les médias ou autour de discussions, on peut trouver de nomb
   | Tablette                  | 63,00                   | 1        |
   | TV                        | 371,00                  | 1        |
   | Vidéo Projecteur          | 94,00                   | 0        |
- 
- - Pour un foyer de 3 personnes (2 adultes et un.e ado) l'électro-ménager, avant même d'avoir servi, a émis (en moyenne) $1,79 tCO_(2eqs)$. Il est donc préférable qu'il soit amorti dans le temps. Pour cela, il faut garder et réparer ses appareils le plus longtemps possible (Le Black Friday n'est vraiment pas votre ami).
-- **Le régime alimentaire**, sûrement le geste avec le rapport investissement/réduction le plus élevé. La production de viande de bœuf est la plus émettrice de GES 
-($CH_{4}$ et $CO_{2}$). En effet, un bœuf demande beaucoup d'espace et de nourriture. Bien souvent, cette dernière est importée de très loin, faisant ainsi grimper l'empreinte carbone de la production de viande.
+
+- **Le régime alimentaire**, sûrement le geste avec le rapport investissement/réduction le plus élevé. La production de viande de bœuf est la plus émettrice de GES ($CH_{4}$ et $CO_{2}$). En effet, un bœuf demande beaucoup d'espace et de nourriture. Bien souvent, cette dernière est importée de très loin, faisant ainsi grimper l'empreinte carbone de la production de viande.
   - 1kg de viande rouge produit en moyenne $35,80 kgCO_{2eq}$,
   - 1kg de poisson blanc produit en moyenne $9,59 kgCO_{2eq}$,
   - 1kg de volaille produit en moyenne $5,16 kgCO_{2eq}$,  
@@ -247,17 +281,17 @@ Sur internet, dans les médias ou autour de discussions, on peut trouver de nomb
 
 ![Apports nutritionnels des principaux aliments](https://assets-decodeurs.lemonde.fr/decodeurs/medias/menusvegetariens/infog2.svg "Apports nutritionnels des principaux aliments")
 
-### Des bonnes intentions mais...
+### Des bonnes intentions mais
 
 - *Faire confiance aux labels 'verts'* requiert des connaissances précises sur les critères utilisés et sur le degré de contraintes imposées par l'autorité qui délivre ce label. Un label n'est jamais obligatoire, il est souvent utilisé dans un but commercial. Prenons l'exemple du label AB: Pour un produit alimentaire, il garantit qu'au moins 95% des ingrédients sont d'origine agricole biologique^[27] et sont produits dans l'UE. Ainsi une tomate génétiquement sélectionnée pour sa résistance et poussant dans une serre chauffée au gaz en hiver en Espagne pourra apposer le label AB. Il peut être plus intéressant de réduire la chaîne d'approvisionnement en achetant au plus proche du producteur (en circuit court).
 - *Domotiser son logement* semble être une bonne solution pour faire des économies d'énergie. Cependant, comme l'électricité en France est bas carbone, cette action a des conséquences très faibles sur l'émission des GES. Cette solution est même assez dommageable en certains points puisqu'il faut acheter un boîtier propriétaire afin d'utiliser les solutions constructeurs. Celui-ci doit rester en fonctionnement en permanence. Il faut ajouter à cela, l'achat de nouvelles ampoules ou autres appareils électroniques compatibles. La domotique est néanmoins intéressante pour piloter son chauffage à distance par exemple. Grâce à elle, il est aussi plus simple d'utiliser ses appareils lorsque les éventuels pics de consommation d'énergie sont passés.
 - *Remplacer sa voiture par une hybride rechargeable ou un SUV/Cross-over ayant une étiquette supérieure ou égal à B* est intéressant uniquement si l'ancien véhicule a plus de 10 ans, ou plus de 210 000 km ou si son gabarit est supérieur ou égal à la nouvelle. En effet, les batteries ajoutent du poids au véhicule. Se déplacer demande alors plus d'énergie ($E_{c}=1/2mv$). Enfin, le coefficient de pénétration dans l'air d'un SUV/Cross Over est bien plus élevé qu'un break par exemple.
 - *Passer du fioul au gaz pour le chauffage* apporte certes une réduction des GES, mais on remplace une énergie fossile par une autre qui n'est pas infinie. En fonction du budget et du type d'habitation, une chaudière à granulés, un poêle à bois, une pompe à chaleur ou des convecteurs électriques seront plus efficaces pour réduire les émissions de GES.
-- *Changer toutes ses ampoules fluo-compactes par des LED* ne permet qu'une faible économie de consommation (1%)^[5]. Il est préférable de remplacer les ampoules cassées ou les ampoules à filament ou encore les néons. 
+- *Changer toutes ses ampoules fluo-compactes par des LED* ne permet qu'une faible économie de consommation (1%)^[5]. Il est préférable de remplacer les ampoules cassées ou les ampoules à filament ou encore les néons.
 
 > Note : En France il y a de nombreux organismes qui s'occupent de la collecte et du recyclage de vos ampoules ou néons usagés.
 
-- *Choisir un fournisseur d'électricité verte* ne garantit en aucun cas que l'électricité arrivant dans le logement n'a pas émis de carbone. En effet, l'électricité courante dans le réseau n'appartient encore à aucun fournisseur. Rien ne prouve que celle que j'utilise est celle que mon fournisseur paiera. 
+- *Choisir un fournisseur d'électricité verte* ne garantit en aucun cas que l'électricité arrivant dans le logement n'a pas émis de carbone. En effet, l'électricité courante dans le réseau n'appartient encore à aucun fournisseur. Rien ne prouve que celle que j'utilise est celle que mon fournisseur paiera.
 
 ## Comment réduire son empreinte individuelle ?
 
@@ -278,7 +312,7 @@ En prenant ces propositions, ainsi que celle de l'ADEME et de l'association nég
 
 - Connaître son empreinte carbone actuelle sur [NosGestesClimat](https://nosgestesclimat.fr/ "NosGestesClimat") permet de faire un état de lieu de sa situation personnelle. Le site propose des actions et des défis à réaliser pour réduire son empreinte. Il est même possible d'apporter des améliorations avec un langage de programmation accessible.
 - Installer des thermostats programmables par zone d'occupation permet un pilotage au plus proche des besoins d’un foyer. En effet l'occupation d'un bureau ou de chambres n'est pas la même que celle d'une cuisine, d'un salon ou d'une salle de bain.
-- Covoiturer pour son trajet domicile-travail répartit entre les occupants le coût et les émissions engendrées par ce trajet. Ceci peut se cumuler également avec l'utilisation d'un vélo ou d'une trottinette électrique pour des trajets de moins de 5 km. 
+- Covoiturer pour son trajet domicile-travail répartit entre les occupants le coût et les émissions engendrées par ce trajet. Ceci peut se cumuler également avec l'utilisation d'un vélo ou d'une trottinette électrique pour des trajets de moins de 5 km.
 - Prendre une carte de réduction à la SNCF peut paraître anecdotique mais cela nous incite à envisager le train à la place de la voiture ou de l’avion.
 - Éteindre ses appareils et ne pas laisser son ordinateur portable ou son smartphone sur le secteur permet d'éviter de gâcher de l'énergie. En l’absence de chargeurs dit "intelligents" capables de se couper automatiquement, l’utilisation de prises programmables est une solution pertinente.
 - Les labels étant nombreux et non obligatoires, seule l'origine des produits peut devenir un critère objectif d’émission de GES. Choisir son produit en fonction de la proximité de son origine et non selon le prix, permet d'affirmer que nous sommes sur la bonne voie.
@@ -310,19 +344,16 @@ Dès 2023 les logements de classe G ne pourront plus être loués. Même pour un
    2. Remplacer le ballon d'eau chaude par un chauffe-eau solaire et électrique.
 3. Autres logements :
    1. Faire comme la résidence principale,
-   2. Eviter que le logement ne reste vacant pour rentabiliser l’investissement.
+   2. Éviter que le logement ne reste vacant pour rentabiliser l’investissement.
 
-> Note : Le mix énergétique d'électricité étant bas carbone, l’installation de mini-centrales électriques ENR n'est, dans la pluspart des cas, pas pertinente en France. Elle peut le devenir si l’électricité produite sert à recharger les batteries d’une voiture, d’un vélo, d’une trottinette électrique ou encore a alimenter en électricité un chauffe-eau.
+> Note : Le mix énergétique d'électricité étant bas carbone, l’installation de mini-centrales électriques ENR n'est, dans la plus part des cas, pas pertinente en France. Elle peut le devenir si l’électricité produite sert à recharger les batteries d’une voiture, d’un vélo, d’une trottinette électrique ou encore a alimenter en électricité un chauffe-eau.
 
 ### Les véhicules
 
 Il convient de se poser la question de la réelle utilité d'une seconde voiture. Des solutions plus économiques existent : les vélos cargos à assistance électrique,les mini voitures comme la TWIZY ou l’Ami. La voiture principale doit être envisagée comme dernière solution pour un déplacement. Évidemment dans certains cas la seconde voiture est essentielle et aucune autre solution n'est envisageable.  
-
 Concernant le véhicule principal, il faut éviter les formules location longue durée et voire la location avec option d'achat comme une obligation d'achat, pour ne pas changer toujours de voitures et éviter d'inciter à la production de nouvelles voitures. Tout comme les appareils électroniques une voiture à une empreinte non négligeable à la fabrication qu'il faut amortir. Les constructeurs dimensionnent leur véhicule pour 20 ans ou 250 000km. Si le véhicule à moins de 10 ans, il est urgent d'attendre avant de le changer, sauf si la famille s'agrandit et que le véhicule ne répond pas au besoin de mobilité.  
-
-Lors du changement de véhicule, il faut privilégier une motorisation 100% électrique, mais il faut aussi choisir un modèle léger dont la pénétration dans l'air est optimisée. Dans le cas d'une motorisation partiellement ou entièrement thermique, il faut chercher à diminuer le poids et à augmenter l'aérodynamisme du véhicule. Le dernier point à prendre en compte sont les options qui doivent répondre à un critère d'utilité et de la configuration du véhicule.
-
-En résumé, il faut déconstruire l’image que l’on se fait de la voiture comme un marqueur social. Une voiture doit rester un mode de locomotion permettant de parcourir une longue distance infaisable à pied ou à vélo et dont les solutions de mobilité partagées (bus, métro, ter, rer, tgv, avion…) ne peuvent répondre aux besoins. 
+Lors du changement de véhicule, il faut privilégier une motorisation 100% électrique, mais il faut aussi choisir un modèle léger dont la pénétration dans l'air est optimisée. Dans le cas d'une motorisation partiellement ou entièrement thermique, il faut chercher à diminuer le poids et à augmenter l'aérodynamisme du véhicule. Le dernier point à prendre en compte sont les options qui doivent répondre à un critère d'utilité et de la configuration du véhicule.  
+En résumé, il faut déconstruire l’image que l’on se fait de la voiture comme un marqueur social. Une voiture doit rester un mode de locomotion permettant de parcourir une longue distance infaisable à pied ou à vélo et dont les solutions de mobilité partagées (bus, métro, ter, rer, tgv, avion…) ne peuvent répondre aux besoins.
 
 ## La biodiversité
 
@@ -331,9 +362,7 @@ Si le réchauffement climatique est, à présent, relayé dans les médias et la
 ### Quelques chiffres
 
 L'IPV est utilisé par de nombreux organismes gouvernementaux et inter-gouvernementaux. Il permet de suivre l'évolution du vivant sur Terre. Cependant, il se base majoritairement sur les vertébrés sur Terre, qui est le groupe le plus connu. Il calcule le taux de décroissance (ou croissance) des populations de toutes les espèces connues et en fait la moyenne. Depuis 1970, il a diminué de 68% au niveau mondial^[31].  
-
-La France a une réelle responsabilité vis-à-vis de la préservation de la biodiversité. En effet, 10% des espèces connues dans le monde, vivent, entre autres, en France (DROM-COM compris). On estime que 80% de la biodiversité vit en outre-mer. Mais pour l'instant, seules 85 238 espèces y sont connues contre  95 582 en métropole^[32].   
-
+La France a une réelle responsabilité vis-à-vis de la préservation de la biodiversité. En effet, 10% des espèces connues dans le monde, vivent, entre autres, en France (DROM-COM compris). On estime que 80% de la biodiversité vit en outre-mer. Mais pour l'instant, seules 85 238 espèces y sont connues contre  95 582 en métropole^[32].  
 Une particularité de la richesse en espèce d'une région, c'est qu'elle est d'autant plus forte qu'elle est proche des tropiques. A ce titre, 58% des espèces métropolitaines françaises sont présentes dans les Alpes-Maritimes^[32]. Dans les Hauts-de-France, nous avons peu de diversité, il est d'autant plus important de la préserver.
 
 Des chiffres en vrac^[32] :
@@ -348,21 +377,21 @@ Les causes menaçant les espèces sont diverses et variées. Les plus importante
 ### Dans mon jardin
 
 - Les plantes ornementales sont très prisées dans les jardins mais elles sont souvent exotiques. Elles ne comptent donc pas dans la biodiversité locale. De plus, elles peuvent parfois être envahissantes. Il existe de nombreuses espèces locales esthétiques dont l’entretien dans un jardin sera des plus facile. Le site du Conservatoire Botanique National de Bailleul^[34] (CBNBL) pour les Hauts-de-France propose une grainothèque permettant de planter des espèces d'intérêt écologique et patrimonial.
-- Les Espèces Exotiques Envahissantes (EEE) sont des espèces exotiques dont l’introduction par l’homme, volontaire ou fortuite, sur un territoire, menace les écosystèmes, les habitats naturels ou les espèces indigènes avec des conséquences écologiques, économiques et sanitaires négatives. Le danger de ces espèces est qu’elles accaparent une part trop importante des ressources dont les espèces indigènes ont besoin pour survivre, ou qu’elles se nourrissent directement des espèces indigènes^[35]. Ces espèces doivent être éliminées entièrement car un simple rhizome restant peut leur permettre de repartir. Seules certaines décharges vertes sont habilitées à les détruire. 
-- Il est inutile de tondre toutes les deux semaines. Même si on trouve ça "moche", ceci découle de l'habitude de voir des pelouses tondues ras. Ne pas tondre trop souvent a pour avantage de laisser certaines plantes à cycle rapide faire des graines et des fleurs qui enrichiront le jardin. De plus, cela évitera aux autres espèces d'épuiser leurs ressources pour construire sans cesse de nouvelles feuilles. 
-- Les plantes n'ont pas besoin d'eau potable et cette eau est rare. L’eau de pluie ne coûte rien et les plantes ne verront pas la différence. 
+- Les Espèces Exotiques Envahissantes (EEE) sont des espèces exotiques dont l’introduction par l’homme, volontaire ou fortuite, sur un territoire, menace les écosystèmes, les habitats naturels ou les espèces indigènes avec des conséquences écologiques, économiques et sanitaires négatives. Le danger de ces espèces est qu’elles accaparent une part trop importante des ressources dont les espèces indigènes ont besoin pour survivre, ou qu’elles se nourrissent directement des espèces indigènes^[35]. Ces espèces doivent être éliminées entièrement car un simple rhizome restant peut leur permettre de repartir. Seules certaines décharges vertes sont habilitées à les détruire.
+- Il est inutile de tondre toutes les deux semaines. Même si on trouve ça "moche", ceci découle de l'habitude de voir des pelouses tondues ras. Ne pas tondre trop souvent a pour avantage de laisser certaines plantes à cycle rapide faire des graines et des fleurs qui enrichiront le jardin. De plus, cela évitera aux autres espèces d'épuiser leurs ressources pour construire sans cesse de nouvelles feuilles.
+- Les plantes n'ont pas besoin d'eau potable et cette eau est rare. L’eau de pluie ne coûte rien et les plantes ne verront pas la différence.
 - La France est l'un des plus gros consommateurs d'engrais chimique en Europe. Par exemple, en 2018, 18 millions de tonnes de fertilisants minéraux et organiques ont été commercialisés en France métropolitaine dont 11,5 millions de tonnes d’origine minérale, selon l’Observatoire pour la fertilisation minérale et organique. Les engrais minéraux (chimiques) qui se déversent ensuite dans les cours d'eau, lors du ruissellement des pluies, perturbent la biodiversité ripicole.
-- Le compost est un fertilisant naturel. Pourquoi acheter des intrants chimiques et jeter les feuilles qui sont un intrant naturel lorsqu'elles se décomposent? De plus, elles amèneront une faune du sol variée et nombreuse, travaillant à leur transformation en humus. 
+- Le compost est un fertilisant naturel. Pourquoi acheter des intrants chimiques et jeter les feuilles qui sont un intrant naturel lorsqu'elles se décomposent? De plus, elles amèneront une faune du sol variée et nombreuse, travaillant à leur transformation en humus.
 - Les insectes sont nécessaires à la pollinisation mais ils sont aussi à la base de nombreuses chaînes alimentaires. Ils ne se réduisent pas uniquement aux abeilles domestiques. Il est possible d'en favoriser de nombreux autres. Construire un hôtel à insectes est une activité ludique pour les enfants et elle les sensibilise à la protection de la nature.
-- L'hiver, de nombreux oiseaux ne migrent pas. Auparavant, ils pouvaient trouver assez facilement de la nourriture mais aujourd'hui, les espaces non construits se font rares et les populations d'espèces compétitives comme le pigeon, grandissent. Faire de petits nichoirs permet de favoriser les Mésanges, les Gros-bec, les Moineaux et d'autres passereaux. 
+- L'hiver, de nombreux oiseaux ne migrent pas. Auparavant, ils pouvaient trouver assez facilement de la nourriture mais aujourd'hui, les espaces non construits se font rares et les populations d'espèces compétitives comme le pigeon, grandissent. Faire de petits nichoirs permet de favoriser les Mésanges, les Gros-bec, les Moineaux et d'autres passereaux.
 - Lorsque l'on cultive toujours au même endroit, le sol s'appauvrit au fur et à mesure. Bouger la serre permet de limiter l'utilisation d'intrants et de laisser le temps au sol de se recharger en matière organique se décomposant pour recréer de l'humus. Cet humus contient de la nourriture pour les plantes. Cela implique de ne pas laisser le sol sans végétation (les mauvaises herbes feront très bien l'affaire...)
 
 ### Dans ma maison et en vacances
 
 - Lorsque l'on construit une nouvelle maison passive, on agit pour la diminution des émissions de GES. Mais qu'en est-il des habitats naturels dont la surface diminue de plus en plus à cause de l'urbanisation? Cela entraîne immanquablement la diminution des populations d'espèces vivant dans ces habitats.
 - Apprendre à connaître la faune et la flore permet d'apprendre à prendre soin d'elle. Les scientifiques ont toujours besoin de données actualisées pour suivre l'évolution de la biodiversité. Ce peut être signaler la présence de hérissons, chauves-souris, écureuils dans son jardin auprès d'associations locales par exemple.
-- Les chauves-souris en France sont en déclin. Elles subissent l'assaut des lumières persistantes pendant la nuit. Elles peuvent parfois s'épuiser de nombreuses heures autour d'un lampadaire, cela menant à leur mort. En outre, elles sont méconnues et mal-aimées car des légendes les présentaient autrefois comme des créatures de l'ombre. Laisser les combles accessibles aux chauves-souris participe à leur sauvegarde. Elles pourront venir y hiverner. Dans tous les cas, tuer une de ces petites bêtes est interdit et répréhensible car elles sont protégées. 
-- Les plantes et animaux exotiques peuvent devenir exotiques envahissants si les conditions climatiques leurs sont favorables. Par ailleurs, certaines peuvent aussi représenter un risque pour la santé publique. 
+- Les chauves-souris en France sont en déclin. Elles subissent l'assaut des lumières persistantes pendant la nuit. Elles peuvent parfois s'épuiser de nombreuses heures autour d'un lampadaire, cela menant à leur mort. En outre, elles sont méconnues et mal-aimées car des légendes les présentaient autrefois comme des créatures de l'ombre. Laisser les combles accessibles aux chauves-souris participe à leur sauvegarde. Elles pourront venir y hiverner. Dans tous les cas, tuer une de ces petites bêtes est interdit et répréhensible car elles sont protégées.
+- Les plantes et animaux exotiques peuvent devenir exotiques envahissants si les conditions climatiques leurs sont favorables. Par ailleurs, certaines peuvent aussi représenter un risque pour la santé publique.
 - La Terre n'est pas une poubelle. Les déchets sont très nombreux partout. Ils ont de nombreuses incidences sur la vie des espèces. On connaît très bien, notamment par les médias, les problèmes que subissent les poissons avec les plastiques dans les océans. C'est aussi le cas dans les rivières, ou pour les oiseaux. Ajoutons à cela que les papiers contiennent parfois des encres qui peuvent être des produits toxiques pour les espèces. Les produits dans les mégots de cigarette sont toujours toxiques quant-à-eux... Les bouteilles sont des pièges pour de nombreux gastéropodes et pour la faune du sol. Chaque déchet jeté peut tuer plusieurs dizaines d'êtres vivants. Malheureusement, il y en a tellement que tous les ramasser semble une épreuve sans fin.
 - Le piétinement est une source de stress pour les plantes. Plus un espace est piétiné, moins il sera riche en espèces car il ne restera que les plus résistantes. Les animaux qui ont besoin de diversité sont liés aux habitats non piétinés. Pour éviter de trop impacter le vivant, autant limiter ce phénomène en se contentant de suivre le chemin.
 - Parfois une fleur peut être très belle, tellement que l'on voudrait la cueillir et la ramener chez soi. Pas de chance c’est une plante protégée! Leur destruction (et donc leur cueillette) est interdite et donc répréhensible. Pour permettre à ces espèces de se reproduire (pour ne pas disparaître), il faut les laisser accomplir leur cycle de reproduction complet (feuilles-fleurs-fruits-graines).
@@ -400,9 +429,9 @@ Les causes menaçant les espèces sont diverses et variées. Les plus importante
 [27]: <https://www.agencebio.org/wp-content/uploads/2018/10/regles_usage_marque_AB.pdf> "Règle d'usage marque AB"
 [28]: <https://youtu.be/goceQuwWwKA> "Video: Les dessous de l'électricité verte"
 [29]: <https://negawatt.org/IMG/pdf/synthese-scenario-negawatt-2022.pdf> "Synthèse scénario négaWatt 2022"
-[30]: <https://www.fresquedelabiodiversite.org/> La freque de la biodiversité
-[31]: <https://www.wwf.fr/rapport-planete-vivante> Rapport Planète Vivante 2020
-[32]: <chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Finpn.mnhn.fr%2Fdocs%2Fcommunication%2FlivretInpn%2FLIVRET_INPN_2019.pdf&clen=54868811&chunk=true> La biodiversité en France: 100 chiffres expliqués sur les espèces
-[33]: <https://ofb.gouv.fr/actualites/un-nouvel-indicateur-pour-mesurer-la-pollution-lumineuse#:~:text=Le%20nouvel%20indicateur%20de%20l,niveau%20%C3%A9lev%C3%A9%20de%20pollution%20lumineuse.> Un nouvel indicateur pour mesurer la pollution lumineuse
-[34]: <https://www.cbnbl.org/grainotheque> Grainothèque
-[35]: <https://www.ecologie.gouv.fr/especes-exotiques-envahissantes> Espèces Exotiques Envahissantes
+[30]: <https://www.fresquedelabiodiversite.org/> "La fresque de la biodiversité"
+[31]: <https://www.wwf.fr/rapport-planete-vivante> "Rapport Planète Vivante 2020"
+[32]: <https://inpn.mnhn.fr/docs/communication/livretInpn/LIVRET_INPN_2019.pdf> "La biodiversité en France: 100 chiffres expliqués sur les espèces"
+[33]: <https://ofb.gouv.fr/actualites/un-nouvel-indicateur-pour-mesurer-la-pollution-lumineuse#:~:text=Le%20nouvel%20indicateur%20de%20l,niveau%20%C3%A9lev%C3%A9%20de%20pollution%20lumineuse.> "Un nouvel indicateur pour mesurer la pollution lumineuse"
+[34]: <https://www.cbnbl.org/grainotheque> "Grainothèque"
+[35]: <https://www.ecologie.gouv.fr/especes-exotiques-envahissantes> "Espèces Exotiques Envahissantes"

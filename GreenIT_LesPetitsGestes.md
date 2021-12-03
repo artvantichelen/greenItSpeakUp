@@ -29,7 +29,7 @@ Si des erreurs ou des fautes sont présentes, n'hésitez pas à faire une PR.
   - [Références](#références)
   
 Licence : [CREATIVE COMMONS BY](LICENSE.txt "legal code")  
-![Creative Common BY-Zero](img\CC-BY_icon.svg.png "cc-by-zero")
+![Creative Common BY-Zero](img/CC-BY_icon.svg.png "cc-by-zero")
 
 ## Les bonnes nouvelles
 

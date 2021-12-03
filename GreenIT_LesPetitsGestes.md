@@ -48,7 +48,7 @@ Le monde n'est ni tout blanc, ni tout noir mais fait d'une multitude de nuances 
 
 Première bonne nouvelle:
 
-- dans une Europe à 27 pays, La France se situe à la 11^ème place des pays les moins émetteur de CO2 (<img src="https://render.githubusercontent.com/render/math?math=10,1 tCO_{2eq})">[1].
+- dans une Europe à 27 pays, La France se situe à la 11^ème place des pays les moins émetteur de CO2 ($1 tCO_{2eq}$)[1].
 
 Si l'on se compare à nos voisins ayant un développement économique et industriel équivalent [1] :
 
@@ -62,7 +62,7 @@ Au niveau mondial, l'UE fait office d'exemple. Depuis 2008, que ce soit en produ
 C'est une bonne nouvelle, mais en 2008 il se produit 2 événements :
 
 1. La crise des Subprimes entraînant un fort ralentissement des investissements.
-2. Le passage symbolique des 100$US avec un record de 147$US le 11/07/08 [3] sur le prix du baril conduit à une adaptation des comportements individuels et au début des politiques environnementales;
+2. Le passage symbolique des 100 dollar US avec un record de 147 le 11/07/08 [3] sur le prix du baril conduit à une adaptation des comportements individuels et au début des politiques environnementales;
 3. Le franchissement du pic d’extraction de pétrole conventionnel [4] selon l'IAE.
 
 On peut affirmer que depuis 2008, l'UE subit une décroissance de ses émissions intérieures de CO2, sûrement due à la diminution des extractions de pétrole conventionnel. Il faut aussi noter que, selon le rapport de 2018 de l'IAE, le pic de production pétrolière est estimé à 2025 [4] et le consensus s'accorde sur une date comprise entre 2025 et 2030.  

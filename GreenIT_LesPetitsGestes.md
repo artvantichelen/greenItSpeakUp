@@ -48,24 +48,24 @@ Le monde n'est ni tout blanc, ni tout noir mais fait d'une multitude de nuances 
 
 Première bonne nouvelle:
 
-- dans une Europe à 27 pays, La France se situe à la 11^ème place des pays les moins émetteur de CO2 ($10,1 tCO_{2eq}$)^[1].
+- dans une Europe à 27 pays, La France se situe à la 11^ème place des pays les moins émetteur de CO2 ($10,1 tCO_{2eq}$)[1].
 
-Si l'on se compare à nos voisins ayant un développement économique et industriel équivalent :
+Si l'on se compare à nos voisins ayant un développement économique et industriel équivalent [1] :
 
-- Nous émettons un peu plus de CO2 que l'Italie ($9,9 tCO_{2eq}$)^[1],
-- Nous émettons beaucoup moins de CO2 que l'Allemagne ($14,6 tCO_{2eq}$)^[1],
-- Nous émettons beaucoup plus de CO2 que l'Espagne ($8,8 tCO_{2eq}$)^[1].
+- Nous émettons un peu plus de CO2 que l'Italie ($9,9 tCO_{2eq}$),
+- Nous émettons beaucoup moins de CO2 que l'Allemagne ($14,6 tCO_{2eq}$),
+- Nous émettons beaucoup plus de CO2 que l'Espagne ($8,8 tCO_{2eq}$).
 
-Au niveau mondial, l'UE fait office d'exemple. Depuis 2008, que ce soit en production et importation nette de $CO_2$, les émissions ont baissé^[2].
+Au niveau mondial, l'UE fait office d'exemple. Depuis 2008, que ce soit en production et importation nette de $CO_2$, les émissions ont baissé[2].
 ![Comparaison émissions de $CO_2$](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/image/comparaison-internationale-emissions-CO2-CGDD.svg "Comparaison émissions de $CO_2$")
 
 C'est une bonne nouvelle, mais en 2008 il se produit 2 événements :
 
 1. La crise des Subprimes entraînant un fort ralentissement des investissements.
-2. Le passage symbolique des 100$US avec un record de 147$US le 11/07/08^[3] sur le prix du baril conduit à une adaptation des comportements individuels et au début des politiques environnementales;
-3. Le franchissement du pic d’extraction de pétrole conventionnel^[4] selon l'IAE.
+2. Le passage symbolique des 100$US avec un record de 147$US le 11/07/08 [3] sur le prix du baril conduit à une adaptation des comportements individuels et au début des politiques environnementales;
+3. Le franchissement du pic d’extraction de pétrole conventionnel [4] selon l'IAE.
 
-On peut affirmer que depuis 2008, l'UE subit une décroissance de ses émissions intérieures de CO2, sûrement due à la diminution des extractions de pétrole conventionnel. Il faut aussi noter que, selon le rapport de 2018 de l'IAE, le pic de production pétrolière est estimé à 2025^[4] et le consensus s'accorde sur une date comprise entre 2025 et 2030.  
+On peut affirmer que depuis 2008, l'UE subit une décroissance de ses émissions intérieures de CO2, sûrement due à la diminution des extractions de pétrole conventionnel. Il faut aussi noter que, selon le rapport de 2018 de l'IAE, le pic de production pétrolière est estimé à 2025 [4] et le consensus s'accorde sur une date comprise entre 2025 et 2030.  
 
 > Note : Le pétrole dit conventionnel est le résultat de l'extraction directe par forage dans un réservoir de pétrole. Le pétrole dit non conventionnel couvre tous les autres types d'extraction (ex: pétrole de schiste et schiste bitumineux.)
 
@@ -74,8 +74,8 @@ Ainsi, que nous le décidions ou non, il faudra toujours faire avec moins de pé
 En zoomant sur la France et en s'intéressant sur la répartition de nos émissions de $CO_2$ on remarque :
 ![Empreinte carbone de la France](https://bonpote.com/wp-content/uploads/2021/05/1.Empreinte-carbone-1-768x725.jpg "Empreinte carbone de la France")
 
-- 10% de nos émissions sont hors de notre champ d'action^[1]
-- 90% restant se répartissent de la façon suivante^[1] :
+- 10% de nos émissions sont hors de notre champ d'action[1]
+- 90% restant se répartissent de la façon suivante[1] :
   1. Transport (31%).
   2. Logement (27%).
   3. Alimentation (20%).
@@ -86,7 +86,7 @@ Deuxième bonne nouvelle:
 
 - nous pourrions agir directement sur 90% de nos émissions de $CO_2$, ce qui est de bonne augure pour descendre à $2 tCO_{2eq}/hab$ comme la actée la COP de paris en 2015.
 
-Cependant le cabinet de conseil Carbone 4 dans son rapport *Faire sa part ?* estime qu'un engagement dit 'héroïque', avec des investissements pour décarboner son mode vie, ne permet de diminuer que de 45%^[5] l'empreinte carbone globale d'un français ou d'une française.
+Cependant le cabinet de conseil Carbone 4 dans son rapport *Faire sa part ?* estime qu'un engagement dit 'héroïque', avec des investissements pour décarboner son mode vie, ne permet de diminuer que de 45% [5] l'empreinte carbone globale d'un français ou d'une française.
 
 ### Chauffe Marcel
 
@@ -100,7 +100,7 @@ Première mauvaise nouvelle:
 
 - notre corps est un très mauvais thermomètre. Il est difficile pour lui de percevoir une variation de quelques degrés. De plus, on parle de température moyenne sur une échelle de temps de 3 siècles ($XIX^{ème}$ - $XXI^{ème}$).  
 
-Une élévation moyenne de la température terrestre de 5°C s'est produite entre -11 700 ans^[6] et le $XIX^{ème}$ siecle. Au plus fort de la période glacière Würm, il était possible de se rendre en Grande-Bretagne à pieds comme le montre la carte ci-dessous :
+Une élévation moyenne de la température terrestre de 5°C s'est produite entre -11 700 ans [6] et le $XIX^{ème}$ siecle. Au plus fort de la période glacière Würm, il était possible de se rendre en Grande-Bretagne à pieds comme le montre la carte ci-dessous :
 ![Inslandsis de la Fenoscandie -22 000](https://www.glaciers-climat.com/wp-content/uploads/10-Europe-au-LGM-571x600.jpg "Inslandsis de la Fenoscandie -22 000")
 
 Cette évolution sur plus d'une dizaine de milliers d'années a permis une augmentation du niveau de la mer de 120 m et le passage de paysages de Toundra et de Steppes en France aux paysages que nous connaissons actuellement.  
@@ -112,9 +112,9 @@ Dans cette illustration, en se focalisant uniquement sur la France et en prenant
 - Presqu'une chance sur 2 d'avoir une température moyenne estivale supérieure aux records enregistrés entre 1950 et 2017;
 - Plus de 2 semaines par an avec une température minimale la nuit supérieure à 20°C.
 
-Tout degré de température supplémentaire implique un stockage de 20% de plus de vapeur d'eau dans l'atmosphère et celle-ci est le principal gaz à effet de serre. C'est à cause d'elle que les changements globaux augmentent de façon plus ou moins exponentielle avec la température. Sans la vapeur d'eau on estime que la température de la terre serait de -18°C^[8]. Heureusement le cycle de l'eau la fera retomber sur Terre, mais sous forme de violentes pluies. De plus, le gradient de température entre le sol (troposphère) et l'atmosphère (stratosphère), va s'accentuer, créant ainsi des mouvements convectifs d'air, mouvements violents et plus importants (cyclone, tornade, typhon...).
+Tout degré de température supplémentaire implique un stockage de 20% de plus de vapeur d'eau dans l'atmosphère et celle-ci est le principal gaz à effet de serre. C'est à cause d'elle que les changements globaux augmentent de façon plus ou moins exponentielle avec la température. Sans la vapeur d'eau on estime que la température de la terre serait de -18°C [8]. Heureusement le cycle de l'eau la fera retomber sur Terre, mais sous forme de violentes pluies. De plus, le gradient de température entre le sol (troposphère) et l'atmosphère (stratosphère), va s'accentuer, créant ainsi des mouvements convectifs d'air, mouvements violents et plus importants (cyclone, tornade, typhon...).
 
-Bonne nouvelle tout de même (enfin tout dépend où l'on se trouve), l'Europe devrait mieux s'en sortir que les pays proches de l'équateur. Là-bas, la température et le taux d'humidité extérieurs seront suffisants pour que quiconque ne se trouvant pas dans un environnement contrôlé, subisse la même mort que les personnes âgées lors de la canicule de 2003^[7].
+Bonne nouvelle tout de même (enfin tout dépend où l'on se trouve), l'Europe devrait mieux s'en sortir que les pays proches de l'équateur. Là-bas, la température et le taux d'humidité extérieurs seront suffisants pour que quiconque ne se trouvant pas dans un environnement contrôlé, subisse la même mort que les personnes âgées lors de la canicule de 2003 [7].
 ![Nombre jour mortel pour l'humain](https://img.lemde.fr/2017/06/15/0/0/635/230/664/0/75/0/ae0c102_12566-a1oldw.pq0pl7syvi.PNG "Nombre jour mortel pour l'humain")
 
 La cartographie ci-dessus a été réalisée à partir des travaux du GIEC et publiée dans une revue scientifique à comité de lecture *Nature Climate Change*. La cartographie (a) se base sur un scénario de +1,5°C alors que l'autre sur un scénario de +5°C. Les morts surviendront par défaut de régulation thermique, autrement dit l'être humain n'aura plus la possibilité de réguler la température de son corps en en évacuant la chaleur.
@@ -127,7 +127,7 @@ Si on reprend le titre du livre de JM.Jancovici il faudrait plutôt dire :
 
 C'est la dernière bonne nouvelle, quel que soit le scénario que l'on choisit. Réduire drastiquement les émissions ou continuer à vivre comme aujourd'hui, le climat de 2050 est déjà écrit et connu.  
 
-Pourquoi cette certitude ? Simplement parce que le système de régulation climatique sur Terre possède une inertie. Si l'on veut bien comprendre le phénomène, lorsque l'on arrête d'alimenter les fourneaux d'une usine, ils continuent à chauffer jusqu'à ce que le liquide ou le gaz refroidisse. Plus les usines sont grosses, plus il y a une grosse quantité de liquide ou de gaz à faire refroidir, ce qui est plus long. Imaginez le temps qu'il faut pour notre bonne vieille Terre, qui est entourée de gaz ! De plus, quand on relâche une tonne de $CO_2$ dans l'atmosphère, 100 ans plus tard, il en reste encore au moins une demi-tonne^[9].  
+Pourquoi cette certitude ? Simplement parce que le système de régulation climatique sur Terre possède une inertie. Si l'on veut bien comprendre le phénomène, lorsque l'on arrête d'alimenter les fourneaux d'une usine, ils continuent à chauffer jusqu'à ce que le liquide ou le gaz refroidisse. Plus les usines sont grosses, plus il y a une grosse quantité de liquide ou de gaz à faire refroidir, ce qui est plus long. Imaginez le temps qu'il faut pour notre bonne vieille Terre, qui est entourée de gaz ! De plus, quand on relâche une tonne de $CO_2$ dans l'atmosphère, 100 ans plus tard, il en reste encore au moins une demi-tonne [9].  
 
 Vous ne verrez pas de votre vivant les effets de vos actions de réduction de l'émission de CO2. Mais les générations futures les verront. Il faut profiter de cette fenêtre de tir ou nous avons accès 'facilement' à l'énergie et vivons avec "peu" de contraintes climatiques pour amorcer la transition.
 
@@ -135,21 +135,21 @@ Vous ne verrez pas de votre vivant les effets de vos actions de réduction de l'
 
 ### Les origines
 
-- 1992 : Les Etats-Unis lancent le programme *Energy star*^[10],
-- 1998 : Tenue de la convention Aarthus qui définie le terme: information environnementale. Elle permet d'avoir accès a des données quantitatives et qualitatives sur l'environnement^[10],
-- 2003 : L'UE fixe les obligations des collectivités en matière de mise à disposition de l'information environnementale^[10],
-- 2004 : Fondation de la Fédération de la communauté francophone autour du GreenIT.fr^[10],
-- 2011 : Création de l'Alliance Green IT, association loi 1901 qui regroupe les acteurs français de l'informatique durable^[10],
-- 2012 : Publication de la première édition *Ecoconception web : les 115 bonnes pratiques*,
-- 2015 : Appel à engagements pour la convergence entre les transitions écologique et numérique par le Conseil National du Numérique^[10].
+- 1992 : Les Etats-Unis lancent le programme *Energy star* [10],
+- 1998 : Tenue de la convention Aarthus qui définie le terme: information environnementale. Elle permet d'avoir accès a des données quantitatives et qualitatives sur l'environnement [10],
+- 2003 : L'UE fixe les obligations des collectivités en matière de mise à disposition de l'information environnementale [10],
+- 2004 : Fondation de la Fédération de la communauté francophone autour du GreenIT.fr [10],
+- 2011 : Création de l'Alliance Green IT, association loi 1901 qui regroupe les acteurs français de l'informatique durable [10],
+- 2012 : Publication de la première édition *Ecoconception web : les 115 bonnes pratiques* [10],
+- 2015 : Appel à engagements pour la convergence entre les transitions écologique et numérique par le Conseil National du Numérique [10].
 
 ### En pratique
 
-Le green IT ne se focalise pas uniquement sur la tech ou le code. Toute entreprise travaillant avec du matériel informatique peut appliquer des mesures du green IT^[11].  
+Le green IT ne se focalise pas uniquement sur la tech ou le code. Toute entreprise travaillant avec du matériel informatique peut appliquer des mesures du green IT [11].  
 
 Pour une ESN ou une société disposant d'un serveur, il est possible d'estimer les émissions de $CO_2$ qu'il produit.  
-Sachant que les serveurs actuels consomment une puissance de 170 W chacun^[12] d'une part. En prenant une hypothèse de fonctionnement d'un serveur sur toute l'année, il consomme 1 489 kWh/an (170*365*24). D'autre part, 1 kWh d'électricité n'a pas la même empreinte carbone d'un pays à l'autre. En effet, ceux-ci ne produisent pas l'électricité de la même manière (pétrole, charbon, nucléaire, renouvelables... avec des parts différentes pour chaque moyen selon les pays).  
-En multipliant la production de $CO_2$ (lors de la création d'électricité) selon les pays par la consommation en kWh de d'un serveur[13] on obtient:
+Sachant que les serveurs actuels consomment une puissance de 170 W chacun [12] d'une part. En prenant une hypothèse de fonctionnement d'un serveur sur toute l'année, il consomme 1 489 kWh/an (170*365*24). D'autre part, 1 kWh d'électricité n'a pas la même empreinte carbone d'un pays à l'autre. En effet, ceux-ci ne produisent pas l'électricité de la même manière (pétrole, charbon, nucléaire, renouvelables... avec des parts différentes pour chaque moyen selon les pays).  
+En multipliant la production de $CO_2$ (lors de la création d'électricité) selon les pays par la consommation en kWh de d'un serveur [13] on obtient:
 
 1. Serveur français : $89,34 kgCO_{2eq}$.
 2. Serveur canadien : $276,95 kgCO_{2eq}$.
@@ -174,17 +174,17 @@ En juin 2011,  **Le  livre vert : Datacenters  et  Développement  Durable  /  �
 
 > L'optimisation au  niveau serveur  permet  notamment  un  effet 'cascade'  ou  'boule de neige'.
 
-En réduisant  les besoins  de  la couche  logicielle,  on  réduit  les besoins  en  équipements informatiques et  donc  des systèmes  d'alimentation  et  de  refroidissement. La  consommation  électrique  du  datacenter  baisse alors  mécaniquement  dans sa  globalité. Cet effet  cascade a  un  impact  en  phase  d’exploitation  (sur  la consommation  électrique)  mais également  en  phase  d’investissement.  En effet,  encore  trop  régulièrement,  la construction des  salles  serveurs  est  dimensionnée sur  la base de  puissance  théorique  issue  des  fiches  constructeurs^[14]. ![L'effet cascade](https://media.xpair.com/redac/basse-consommation/effet-cascade.jpg "L'effet cascade")
+En réduisant  les besoins  de  la couche  logicielle,  on  réduit  les besoins  en  équipements informatiques et  donc  des systèmes  d'alimentation  et  de  refroidissement. La  consommation  électrique  du  datacenter  baisse alors  mécaniquement  dans sa  globalité. Cet effet  cascade a  un  impact  en  phase  d’exploitation  (sur  la consommation  électrique)  mais également  en  phase  d’investissement.  En effet,  encore  trop  régulièrement,  la construction des  salles  serveurs  est  dimensionnée sur  la base de  puissance  théorique  issue  des  fiches  constructeurs [14]. ![L'effet cascade](https://media.xpair.com/redac/basse-consommation/effet-cascade.jpg "L'effet cascade")
 
 ### Et l'humain
 
 On a tendance à s'imaginer le  sujet du Green-IT devant être traité par les développeurs et les responsables infra. Or, le Green-IT c'est avant tout des gestes que toute personne travaillant dans une société peut faire. Ils sont nombreux mais on va s'attarder sur 2 gestes sur lesquels seuls les collaborateurs ou collaboratrices peuvent agir directement :
 
 - L'impression de documents :
-  - une page imprimée (recto ou recto/verso) représente $10,22 gCO_{2eq}$^[15],
-  - l'utilisation d'une ramette de papier recyclé émet $70 gCO_{2eq}$ de plus qu'une ramette issue d'arbre feuillus^[16],
+  - une page imprimée (recto ou recto/verso) représente $10,22 gCO_{2eq}$ [15],
+  - l'utilisation d'une ramette de papier recyclé émet $70 gCO_{2eq}$ de plus qu'une ramette issue d'arbre feuillus [16],
   - n'imprimer que ce qui est nécessaire.
-- Le mode de transport domicile-travail pour un trajet de 10km^[17] :
+- Le mode de transport domicile-travail pour un trajet de 10km [17] :
   - un trajet seul en voiture émet $198 gCO_{2eq}$,
   - un trajet en métro émet $25 gCO_{2eq}$,
   - un trajet en vélo à assistance électrique $20 gCO_{2eq}$ (si musculaire alors $0 gCO_{2eq}$).
@@ -197,13 +197,13 @@ En prenant l'exemple d'une ESN qui travaille sur le développement d'une applica
 - tout le monde vient en voiture.
 
 En données d'entrée on prendra pour les véhicules :
-| Modèle   | Consommation $l/100km$^[18] | Carburant | Émission $gCO_{2eq}/100km$^[19] | Émission carburant $gCO_{2eq}/l$^[20] |
+| Modèle   | Consommation $l/100km$ [18] | Carburant | Émission $gCO_{2eq}/100km$ [19] | Émission carburant $gCO_{2eq}/l$ [20] |
 |:---------|:---------------------------:|:----------|:-------------------------------:|:-------------------------------------:|
 | fiesta   | 7,3                         | essence   | 99                              | 507                                   |
 | 308      | 5,6                         | diesel    | 108                             | 543                                   |
 | X3       | 9,4                         | essence   | 239                             | 507                                   |
 
-> Note : Pour convertir des Giga Joules d'énergie en litre de carburant, la densité énergétique pour l'essence et le diesel est de $0,027 GJ/m^3$^[21].
+> Note : Pour convertir des Giga Joules d'énergie en litre de carburant, la densité énergétique pour l'essence et le diesel est de $0,027 GJ/m^3$ [21].
 
 - **Impact Dominique (admin)** :
   - 50 pages : $(50*10,22)/1000 = 0,51 kgCO_{2eq}$
@@ -231,18 +231,18 @@ En données d'entrée on prendra pour les véhicules :
 
 Sur internet, dans les médias ou autour de discussions, on peut trouver de nombreux conseils et des idées pour réduire son empreinte carbone. Mais bien souvent, il n'est pas évident de savoir l'impact réel de chacun des petits gestes ou même d'en avoir un ordre de grandeur.  Voici donc une liste non exhaustive avec des exemples pour se situer :
 
-- **La température de son logement**, les normes des performances énergétiques des bâtiments (RT2005, RT2012 et RE2020), imposent comme hypothèse de calcul, une température moyenne annuelle du logement à 19°C^[22]. Mais baisser son thermostat de 1°C représente une économie de 7% de sa consommation d'énergie[23].
-- **La voiture**, les émissions varient beaucoup d'une énergie à une autre, d'une voiture à une autre, du pilote, etc. Mais on peut partir sur une moyenne de $99 gCO_{2eq}$^[17] pour 5 km :
+- **La température de son logement**, les normes des performances énergétiques des bâtiments (RT2005, RT2012 et RE2020), imposent comme hypothèse de calcul, une température moyenne annuelle du logement à 19°C[22]. Mais baisser son thermostat de 1°C représente une économie de 7% de sa consommation d'énergie [23].
+- **La voiture**, les émissions varient beaucoup d'une énergie à une autre, d'une voiture à une autre, du pilote, etc. Mais on peut partir sur une moyenne de $99 gCO_{2eq}$[17] pour 5 km :
   - avoir un ou des passagers permet de répartir cette émission en parts égales,
   - un trajet à vélo à 15 km/h prend 20 min ($5/(15/60) = 20 min$) en supprimant les émissions,
   - un trajet à pied à 7 km/h prend 43 min ($5/(7/60) = 43 min$) en supprimant les émissions.
-- **L'avion**, il a révolutionné le transport entre les continents et permet de faire un Lille-Marseille en 1 h 35 min. Cela dit, l'émission par passager est de $184,3 kgCO_{2eq}$^[17]
+- **L'avion**, il a révolutionné le transport entre les continents et permet de faire un Lille-Marseille en 1 h 35 min. Cela dit, l'émission par passager est de $184,3 kgCO_{2eq}$[17]
   - un trajet en TGV prendra approximativement 3 fois plus de temps (5 h 08 min) en divisant d'un facteur 84 les émissions ($2,20kgCO_{2eq}$) selon la SNCF;
-  - un trajet en voiture avec un passager prendra 6,5 fois plus de temps (9 h 45 min) en divisant par moins de 2 les émissions par rapport à l'avion ($96,60kgCO_{2eq}$)^[17]
-- **Les déchets**, ils génèrent également des gaz à effets de serres (GES) de par leurs transports. Pour les ordures ménagères il faut y ajouter le cycle de traitement (incinération ou enfouissement) soit $707,67 kgCO_{2eq}$^[24] :
-  - en achetant un maximum en vrac et en compostant des déchets organiques, on réduit de 2/3 nos émissions^[24],
-  - en faisant ses produits ménagers et cosmétiques, en achetant des produits 100% ou majoritairement réutilisables les émissions sont divisés par 3^[24].
-- **L'électroménager et numérique**, les étiquettes énergétiques changent régulièrement. Depuis mars 2021, les notes vont à nouveau de A à F avec des seuils relevés. Ainsi un appareil A+++ vendu avant 2021 peut être classé B ou C^[25]. Puisque la production d'électricité est faiblement carbonée en France, les émissions de GES sont principalement dues à la production de ces appareils :
+  - un trajet en voiture avec un passager prendra 6,5 fois plus de temps (9 h 45 min) en divisant par moins de 2 les émissions par rapport à l'avion ($96,60kgCO_{2eq}$)[17]
+- **Les déchets**, ils génèrent également des gaz à effets de serres (GES) de par leurs transports. Pour les ordures ménagères il faut y ajouter le cycle de traitement (incinération ou enfouissement) soit $707,67 kgCO_{2eq}$ [24] :
+  - en achetant un maximum en vrac et en compostant des déchets organiques, on réduit de 2/3 nos émissions [24],
+  - en faisant ses produits ménagers et cosmétiques, en achetant des produits 100% ou majoritairement réutilisables les émissions sont divisés par 3 [24].
+- **L'électroménager et numérique**, les étiquettes énergétiques changent régulièrement. Depuis mars 2021, les notes vont à nouveau de A à F avec des seuils relevés. Ainsi un appareil A+++ vendu avant 2021 peut être classé B ou C [25]. Puisque la production d'électricité est faiblement carbonée en France, les émissions de GES sont principalement dues à la production de ces appareils :
   - Pour un foyer de 3 personnes (2 adultes et un.e ado) l'électro-ménager, avant même d'avoir servi, a émis (en moyenne) $1,79 tCO_(2eqs)$. Il est donc préférable qu'il soit amorti dans le temps. Pour cela, il faut garder et réparer ses appareils le plus longtemps possible (Le Black Friday n'est vraiment pas votre ami).
   | Appareil                  | Émission ($kgCO_{2eq}$) | Quantité |
   |:--------------------------|------------------------:|:--------:|
@@ -277,17 +277,17 @@ Sur internet, dans les médias ou autour de discussions, on peut trouver de nomb
   - 1kg d'œuf produit en moyenne $2,61 kgCO_{2eq}$,
   - 1kg de tofu produit en moyenne $0,98 kgCO_{2eq}$.
 
-> Note : Niveau nutritionnel, seul un régime 100% végétalien (céréales, légumineuses, fruits et légumes) comporte des risques de carence en vitamine B12, zinc et fer. Pour les personnes anémiées en fer, il peut être dangereux de se passer de viande rouge car cet aliment contient beaucoup de fer facilement assimilable^[26].
+> Note : Niveau nutritionnel, seul un régime 100% végétalien (céréales, légumineuses, fruits et légumes) comporte des risques de carence en vitamine B12, zinc et fer. Pour les personnes anémiées en fer, il peut être dangereux de se passer de viande rouge car cet aliment contient beaucoup de fer facilement assimilable [26].
 
 ![Apports nutritionnels des principaux aliments](https://assets-decodeurs.lemonde.fr/decodeurs/medias/menusvegetariens/infog2.svg "Apports nutritionnels des principaux aliments")
 
 ### Des bonnes intentions mais
 
-- *Faire confiance aux labels 'verts'* requiert des connaissances précises sur les critères utilisés et sur le degré de contraintes imposées par l'autorité qui délivre ce label. Un label n'est jamais obligatoire, il est souvent utilisé dans un but commercial. Prenons l'exemple du label AB: Pour un produit alimentaire, il garantit qu'au moins 95% des ingrédients sont d'origine agricole biologique^[27] et sont produits dans l'UE. Ainsi une tomate génétiquement sélectionnée pour sa résistance et poussant dans une serre chauffée au gaz en hiver en Espagne pourra apposer le label AB. Il peut être plus intéressant de réduire la chaîne d'approvisionnement en achetant au plus proche du producteur (en circuit court).
+- *Faire confiance aux labels 'verts'* requiert des connaissances précises sur les critères utilisés et sur le degré de contraintes imposées par l'autorité qui délivre ce label. Un label n'est jamais obligatoire, il est souvent utilisé dans un but commercial. Prenons l'exemple du label AB: Pour un produit alimentaire, il garantit qu'au moins 95% des ingrédients sont d'origine agricole biologique [27] et sont produits dans l'UE. Ainsi une tomate génétiquement sélectionnée pour sa résistance et poussant dans une serre chauffée au gaz en hiver en Espagne pourra apposer le label AB. Il peut être plus intéressant de réduire la chaîne d'approvisionnement en achetant au plus proche du producteur (en circuit court).
 - *Domotiser son logement* semble être une bonne solution pour faire des économies d'énergie. Cependant, comme l'électricité en France est bas carbone, cette action a des conséquences très faibles sur l'émission des GES. Cette solution est même assez dommageable en certains points puisqu'il faut acheter un boîtier propriétaire afin d'utiliser les solutions constructeurs. Celui-ci doit rester en fonctionnement en permanence. Il faut ajouter à cela, l'achat de nouvelles ampoules ou autres appareils électroniques compatibles. La domotique est néanmoins intéressante pour piloter son chauffage à distance par exemple. Grâce à elle, il est aussi plus simple d'utiliser ses appareils lorsque les éventuels pics de consommation d'énergie sont passés.
 - *Remplacer sa voiture par une hybride rechargeable ou un SUV/Cross-over ayant une étiquette supérieure ou égal à B* est intéressant uniquement si l'ancien véhicule a plus de 10 ans, ou plus de 210 000 km ou si son gabarit est supérieur ou égal à la nouvelle. En effet, les batteries ajoutent du poids au véhicule. Se déplacer demande alors plus d'énergie ($E_{c}=1/2mv$). Enfin, le coefficient de pénétration dans l'air d'un SUV/Cross Over est bien plus élevé qu'un break par exemple.
 - *Passer du fioul au gaz pour le chauffage* apporte certes une réduction des GES, mais on remplace une énergie fossile par une autre qui n'est pas infinie. En fonction du budget et du type d'habitation, une chaudière à granulés, un poêle à bois, une pompe à chaleur ou des convecteurs électriques seront plus efficaces pour réduire les émissions de GES.
-- *Changer toutes ses ampoules fluo-compactes par des LED* ne permet qu'une faible économie de consommation (1%)^[5]. Il est préférable de remplacer les ampoules cassées ou les ampoules à filament ou encore les néons.
+- *Changer toutes ses ampoules fluo-compactes par des LED* ne permet qu'une faible économie de consommation (1%) [5]. Il est préférable de remplacer les ampoules cassées ou les ampoules à filament ou encore les néons.
 
 > Note : En France il y a de nombreux organismes qui s'occupent de la collecte et du recyclage de vos ampoules ou néons usagés.
 
@@ -295,7 +295,7 @@ Sur internet, dans les médias ou autour de discussions, on peut trouver de nomb
 
 ## Comment réduire son empreinte individuelle ?
 
-Malheureusement, penser que réduire son impact sera facile, demandera ni sacrifice ni investissement, est un leurre. La publication *Faire sa part*^[5] de carbone 4 est catégorique : sans investissements financiers mais en réalisant des changements radicaux de notre mode vie, on ne peut réduire que de 25% les émissions de GES. Ce taux descend à 10% pour des changements dits “réalistes”. Dans cette même publication, on peut constater que les actions maximales activables par les ménages sans investissements sont de :
+Malheureusement, penser que réduire son impact sera facile, demandera ni sacrifice ni investissement, est un leurre. La publication *Faire sa part* [5] de carbone 4 est catégorique : sans investissements financiers mais en réalisant des changements radicaux de notre mode vie, on ne peut réduire que de 25% les émissions de GES. Ce taux descend à 10% pour des changements dits “réalistes”. Dans cette même publication, on peut constater que les actions maximales activables par les ménages sans investissements sont de :
 
 - $1,3 tCO_{2eq}$ pour l'alimentation (régime végétarien, achat local, zéro déchet et gourde),
 - $0,9 tCO_{2eq}$ pour la mobilité (vélo pour trajet de moins 10km, 100% covoiturage, ne plus prendre l'avion),
@@ -304,7 +304,7 @@ Malheureusement, penser que réduire son impact sera facile, demandera ni sacrif
 
 Par rapport aux $10,8 tCO_{2eq}$ d'émission cela ne représente qu'une baisse de 27% en changeant considérablement son mode de vie.
 
-En prenant ces propositions, ainsi que celle de l'ADEME et de l'association négaWatt^[29], on peut arriver à répertorier les vrais gestes, actions et investissements à réaliser pour faire diminuer les émissions de GES.
+En prenant ces propositions, ainsi que celle de l'ADEME et de l'association négaWatt [29], on peut arriver à répertorier les vrais gestes, actions et investissements à réaliser pour faire diminuer les émissions de GES.
 
 > Note : le scénario négaWatt de 2022 suppose une sobriété accrue des ménages et des industries (diminution de notre consommation de pétrole dans notre quotidien qui est difficilement acceptable par la société). En outre, il pose des hypothèses sur les technologies récentes mais n'ayant pas été développé à l'échelle industrielle. Elle omet aussi le problème de concurrence d’utilisation des sols.
 
@@ -357,27 +357,27 @@ En résumé, il faut déconstruire l’image que l’on se fait de la voiture co
 
 ## La biodiversité
 
-Si le réchauffement climatique est, à présent, relayé dans les médias et la presse, la perte de la biodiversité est rarement considérée comme un problème équivalent à celui des émissions de GES. Mais si l'on réduit effectivement les émissions de GES pour suivre les recommandations du GIEC, il reste encore le problème de la diminution de l’Indice de Planète Vivante (IPV) dont seules quelques personnes ont entendu parler. Pour bien se rendre compte des conséquences de la perte du vivant sur notre planète, il y a l’excellent atelier: la fresque de la biodiversité^[30] dont il est recommandé d'y participer.
+Si le réchauffement climatique est, à présent, relayé dans les médias et la presse, la perte de la biodiversité est rarement considérée comme un problème équivalent à celui des émissions de GES. Mais si l'on réduit effectivement les émissions de GES pour suivre les recommandations du GIEC, il reste encore le problème de la diminution de l’Indice de Planète Vivante (IPV) dont seules quelques personnes ont entendu parler. Pour bien se rendre compte des conséquences de la perte du vivant sur notre planète, il y a l’excellent atelier: la fresque de la biodiversité [30] dont il est recommandé d'y participer.
 
 ### Quelques chiffres
 
-L'IPV est utilisé par de nombreux organismes gouvernementaux et inter-gouvernementaux. Il permet de suivre l'évolution du vivant sur Terre. Cependant, il se base majoritairement sur les vertébrés sur Terre, qui est le groupe le plus connu. Il calcule le taux de décroissance (ou croissance) des populations de toutes les espèces connues et en fait la moyenne. Depuis 1970, il a diminué de 68% au niveau mondial^[31].  
-La France a une réelle responsabilité vis-à-vis de la préservation de la biodiversité. En effet, 10% des espèces connues dans le monde, vivent, entre autres, en France (DROM-COM compris). On estime que 80% de la biodiversité vit en outre-mer. Mais pour l'instant, seules 85 238 espèces y sont connues contre  95 582 en métropole^[32].  
-Une particularité de la richesse en espèce d'une région, c'est qu'elle est d'autant plus forte qu'elle est proche des tropiques. A ce titre, 58% des espèces métropolitaines françaises sont présentes dans les Alpes-Maritimes^[32]. Dans les Hauts-de-France, nous avons peu de diversité, il est d'autant plus important de la préserver.
+L'IPV est utilisé par de nombreux organismes gouvernementaux et inter-gouvernementaux. Il permet de suivre l'évolution du vivant sur Terre. Cependant, il se base majoritairement sur les vertébrés sur Terre, qui est le groupe le plus connu. Il calcule le taux de décroissance (ou croissance) des populations de toutes les espèces connues et en fait la moyenne. Depuis 1970, il a diminué de 68% au niveau mondial [31].  
+La France a une réelle responsabilité vis-à-vis de la préservation de la biodiversité. En effet, 10% des espèces connues dans le monde, vivent, entre autres, en France (DROM-COM compris). On estime que 80% de la biodiversité vit en outre-mer. Mais pour l'instant, seules 85 238 espèces y sont connues contre  95 582 en métropole[32].  
+Une particularité de la richesse en espèce d'une région, c'est qu'elle est d'autant plus forte qu'elle est proche des tropiques. A ce titre, 58% des espèces métropolitaines françaises sont présentes dans les Alpes-Maritimes [32]. Dans les Hauts-de-France, nous avons peu de diversité, il est d'autant plus important de la préserver.
 
-Des chiffres en vrac^[32] :
+Des chiffres en vrac [32] :
 
 - 53 % des plantes liées aux insectes déclinent;
 - 22 % de déclin moyen des 10 oiseaux granivores les plus communs;
 - 9500 espèces et sous-espèces protégées sur le territoire Français selon l'INPN;
 - 50% de la surface des zones humides en France a disparu entre 1960 et 1990 selon l'état des lieux des Zones Humides.
 
-Les causes menaçant les espèces sont diverses et variées. Les plus importantes sont la destruction des habitats (notamment par l'urbanisation), la chasse (que ce soit par les chats ou par les humains), la pollution des eaux, l'arrivée d'espèces invasives, la présence de nombreux perturbateurs pour les espèces. Un bon exemple est l’éclairage urbain. La nuit, les espèces y sont exposées et cela perturbe leur cycle ou leurs repères en les assimilant à la lune. En effet, 85% du territoire est exposé à un niveau élevé de nuisance lumineuse^[33]).
+Les causes menaçant les espèces sont diverses et variées. Les plus importantes sont la destruction des habitats (notamment par l'urbanisation), la chasse (que ce soit par les chats ou par les humains), la pollution des eaux, l'arrivée d'espèces invasives, la présence de nombreux perturbateurs pour les espèces. Un bon exemple est l’éclairage urbain. La nuit, les espèces y sont exposées et cela perturbe leur cycle ou leurs repères en les assimilant à la lune. En effet, 85% du territoire est exposé à un niveau élevé de nuisance lumineuse [33]).
 
 ### Dans mon jardin
 
-- Les plantes ornementales sont très prisées dans les jardins mais elles sont souvent exotiques. Elles ne comptent donc pas dans la biodiversité locale. De plus, elles peuvent parfois être envahissantes. Il existe de nombreuses espèces locales esthétiques dont l’entretien dans un jardin sera des plus facile. Le site du Conservatoire Botanique National de Bailleul^[34] (CBNBL) pour les Hauts-de-France propose une grainothèque permettant de planter des espèces d'intérêt écologique et patrimonial.
-- Les Espèces Exotiques Envahissantes (EEE) sont des espèces exotiques dont l’introduction par l’homme, volontaire ou fortuite, sur un territoire, menace les écosystèmes, les habitats naturels ou les espèces indigènes avec des conséquences écologiques, économiques et sanitaires négatives. Le danger de ces espèces est qu’elles accaparent une part trop importante des ressources dont les espèces indigènes ont besoin pour survivre, ou qu’elles se nourrissent directement des espèces indigènes^[35]. Ces espèces doivent être éliminées entièrement car un simple rhizome restant peut leur permettre de repartir. Seules certaines décharges vertes sont habilitées à les détruire.
+- Les plantes ornementales sont très prisées dans les jardins mais elles sont souvent exotiques. Elles ne comptent donc pas dans la biodiversité locale. De plus, elles peuvent parfois être envahissantes. Il existe de nombreuses espèces locales esthétiques dont l’entretien dans un jardin sera des plus facile. Le site du Conservatoire Botanique National de Bailleul [34] (CBNBL) pour les Hauts-de-France propose une grainothèque permettant de planter des espèces d'intérêt écologique et patrimonial.
+- Les Espèces Exotiques Envahissantes (EEE) sont des espèces exotiques dont l’introduction par l’homme, volontaire ou fortuite, sur un territoire, menace les écosystèmes, les habitats naturels ou les espèces indigènes avec des conséquences écologiques, économiques et sanitaires négatives. Le danger de ces espèces est qu’elles accaparent une part trop importante des ressources dont les espèces indigènes ont besoin pour survivre, ou qu’elles se nourrissent directement des espèces indigènes [35]. Ces espèces doivent être éliminées entièrement car un simple rhizome restant peut leur permettre de repartir. Seules certaines décharges vertes sont habilitées à les détruire.
 - Il est inutile de tondre toutes les deux semaines. Même si on trouve ça "moche", ceci découle de l'habitude de voir des pelouses tondues ras. Ne pas tondre trop souvent a pour avantage de laisser certaines plantes à cycle rapide faire des graines et des fleurs qui enrichiront le jardin. De plus, cela évitera aux autres espèces d'épuiser leurs ressources pour construire sans cesse de nouvelles feuilles.
 - Les plantes n'ont pas besoin d'eau potable et cette eau est rare. L’eau de pluie ne coûte rien et les plantes ne verront pas la différence.
 - La France est l'un des plus gros consommateurs d'engrais chimique en Europe. Par exemple, en 2018, 18 millions de tonnes de fertilisants minéraux et organiques ont été commercialisés en France métropolitaine dont 11,5 millions de tonnes d’origine minérale, selon l’Observatoire pour la fertilisation minérale et organique. Les engrais minéraux (chimiques) qui se déversent ensuite dans les cours d'eau, lors du ruissellement des pluies, perturbent la biodiversité ripicole.

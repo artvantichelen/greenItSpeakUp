@@ -48,7 +48,7 @@ Le monde n'est ni tout blanc, ni tout noir mais fait d'une multitude de nuances 
 
 Première bonne nouvelle:
 
-- dans une Europe à 27 pays, La France se situe à la 11^ème place des pays les moins émetteur de CO2 ($10,1 tCO_{2eq}$)[1].
+- dans une Europe à 27 pays, La France se situe à la 11^ème place des pays les moins émetteur de CO2 (<img src="https://render.githubusercontent.com/render/math?math=10,1 tCO_{2eq})">[1].
 
 Si l'on se compare à nos voisins ayant un développement économique et industriel équivalent [1] :
 

@@ -28,8 +28,8 @@ Si des erreurs ou des fautes sont présentes, n'hésitez pas à faire une PR.
     - [Dans ma maison et en vacances](#dans-ma-maison-et-en-vacances)
   - [Références](#références)
   
-Licence : [CREATIVE COMMONS BY](LICENSE.txt "legal code")
-![Creative Common BY-Zero](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/320px-CC-BY_icon.svg.png "cc-by-zero")
+Licence : [CREATIVE COMMONS BY](LICENSE.txt "legal code")  
+![Creative Common BY-Zero](img\CC-BY_icon.svg.png "cc-by-zero")
 
 ## Les bonnes nouvelles
 
@@ -57,7 +57,7 @@ Si l'on se compare à nos voisins ayant un développement économique et industr
 - Nous émettons beaucoup plus de CO2 que l'Espagne ($8,8 tCO_{2eq}$).
 
 Au niveau mondial, l'UE fait office d'exemple. Depuis 2008, que ce soit en production et importation nette de $CO_2$, les émissions ont baissé[2].
-![Comparaison émissions de $CO_2$](https://www.statistiques.developpement-durable.gouv.fr/edition-numerique/chiffres-cles-du-climat/image/comparaison-internationale-emissions-CO2-CGDD.svg "Comparaison émissions de $CO_2$")
+![Comparaison émissions de $CO_2$](img\comparaison-internationale-emissions-CO2-CGDD.png "Comparaison émissions de $CO_2$")
 
 C'est une bonne nouvelle, mais en 2008 il se produit 2 événements :
 
@@ -72,7 +72,7 @@ On peut affirmer que depuis 2008, l'UE subit une décroissance de ses émissions
 Ainsi, que nous le décidions ou non, il faudra toujours faire avec moins de pétrole. En effet, le pétrole non-conventionnel ne s'exporte que très peu, tout comme le charbon.  
 
 En zoomant sur la France et en s'intéressant sur la répartition de nos émissions de $CO_2$ on remarque :
-![Empreinte carbone de la France](https://bonpote.com/wp-content/uploads/2021/05/1.Empreinte-carbone-1-768x725.jpg "Empreinte carbone de la France")
+![Empreinte carbone de la France](img\1.Empreinte-carbone-1-768x725.jpg "Empreinte carbone de la France")
 
 - 10% de nos émissions sont hors de notre champ d'action[1]
 - 90% restant se répartissent de la façon suivante[1] :
@@ -101,11 +101,11 @@ Première mauvaise nouvelle:
 - notre corps est un très mauvais thermomètre. Il est difficile pour lui de percevoir une variation de quelques degrés. De plus, on parle de température moyenne sur une échelle de temps de 3 siècles ($XIX^{ème}$ - $XXI^{ème}$).  
 
 Une élévation moyenne de la température terrestre de 5°C s'est produite entre -11 700 ans [6] et le $XIX^{ème}$ siecle. Au plus fort de la période glacière Würm, il était possible de se rendre en Grande-Bretagne à pieds comme le montre la carte ci-dessous :
-![Inslandsis de la Fenoscandie -22 000](https://www.glaciers-climat.com/wp-content/uploads/10-Europe-au-LGM-571x600.jpg "Inslandsis de la Fenoscandie -22 000")
+![Inslandsis de la Fenoscandie -22 000](img\10-Europe-au-LGM-571x600.jpg "Inslandsis de la Fenoscandie -22 000")
 
 Cette évolution sur plus d'une dizaine de milliers d'années a permis une augmentation du niveau de la mer de 120 m et le passage de paysages de Toundra et de Steppes en France aux paysages que nous connaissons actuellement.  
 
-Si on suit la trajectoire actuelle, la même élévation de température se réalisera en l'espace de moins de 200 ans. Un tel réchauffement en un laps de temps aussi court aurait des conséquences difficilement imaginables. Si l'on regarde cette image, on voit que les conséquences de la hausse de la température sur les changements environnementaux ne sont pas proportionnelles. Ils sont exponentiels en fonction de la température. Bien qu'une augmentation de 5°C ait de lourdes conséquences, si l'on limite le réchauffement à 1,5 - 3°C, cela suffirait pour diminuer l'impact de celui-ci sur la Terre. ![Pourquoi rester sous les 2°C ?](https://bonpote.com/wp-content/uploads/2021/05/Carbon_brief_test_15-768x769.png "Pourquoi rester sous les 2°C ?")
+Si on suit la trajectoire actuelle, la même élévation de température se réalisera en l'espace de moins de 200 ans. Un tel réchauffement en un laps de temps aussi court aurait des conséquences difficilement imaginables. Si l'on regarde cette image, on voit que les conséquences de la hausse de la température sur les changements environnementaux ne sont pas proportionnelles. Ils sont exponentiels en fonction de la température. Bien qu'une augmentation de 5°C ait de lourdes conséquences, si l'on limite le réchauffement à 1,5 - 3°C, cela suffirait pour diminuer l'impact de celui-ci sur la Terre. ![Pourquoi rester sous les 2°C ?](img\Carbon_brief_test_15-768x769.png "Pourquoi rester sous les 2°C ?")
 
 Dans cette illustration, en se focalisant uniquement sur la France et en prenant une hausse de 1,5°C, nous avons :
 
@@ -115,7 +115,7 @@ Dans cette illustration, en se focalisant uniquement sur la France et en prenant
 Tout degré de température supplémentaire implique un stockage de 20% de plus de vapeur d'eau dans l'atmosphère et celle-ci est le principal gaz à effet de serre. C'est à cause d'elle que les changements globaux augmentent de façon plus ou moins exponentielle avec la température. Sans la vapeur d'eau on estime que la température de la terre serait de -18°C [8]. Heureusement le cycle de l'eau la fera retomber sur Terre, mais sous forme de violentes pluies. De plus, le gradient de température entre le sol (troposphère) et l'atmosphère (stratosphère), va s'accentuer, créant ainsi des mouvements convectifs d'air, mouvements violents et plus importants (cyclone, tornade, typhon...).
 
 Bonne nouvelle tout de même (enfin tout dépend où l'on se trouve), l'Europe devrait mieux s'en sortir que les pays proches de l'équateur. Là-bas, la température et le taux d'humidité extérieurs seront suffisants pour que quiconque ne se trouvant pas dans un environnement contrôlé, subisse la même mort que les personnes âgées lors de la canicule de 2003 [7].
-![Nombre jour mortel pour l'humain](https://img.lemde.fr/2017/06/15/0/0/635/230/664/0/75/0/ae0c102_12566-a1oldw.pq0pl7syvi.PNG "Nombre jour mortel pour l'humain")
+![Nombre jour mortel pour l'humain](img\ae0c102_12566-a1oldw.pq0pl7syvi.png "Nombre jour mortel pour l'humain")
 
 La cartographie ci-dessus a été réalisée à partir des travaux du GIEC et publiée dans une revue scientifique à comité de lecture *Nature Climate Change*. La cartographie (a) se base sur un scénario de +1,5°C alors que l'autre sur un scénario de +5°C. Les morts surviendront par défaut de régulation thermique, autrement dit l'être humain n'aura plus la possibilité de réguler la température de son corps en en évacuant la chaleur.
 
@@ -174,7 +174,7 @@ En juin 2011,  **Le  livre vert : Datacenters  et  Développement  Durable  /  �
 
 > L'optimisation au  niveau serveur  permet  notamment  un  effet 'cascade'  ou  'boule de neige'.
 
-En réduisant  les besoins  de  la couche  logicielle,  on  réduit  les besoins  en  équipements informatiques et  donc  des systèmes  d'alimentation  et  de  refroidissement. La  consommation  électrique  du  datacenter  baisse alors  mécaniquement  dans sa  globalité. Cet effet  cascade a  un  impact  en  phase  d’exploitation  (sur  la consommation  électrique)  mais également  en  phase  d’investissement.  En effet,  encore  trop  régulièrement,  la construction des  salles  serveurs  est  dimensionnée sur  la base de  puissance  théorique  issue  des  fiches  constructeurs [14]. ![L'effet cascade](https://media.xpair.com/redac/basse-consommation/effet-cascade.jpg "L'effet cascade")
+En réduisant  les besoins  de  la couche  logicielle,  on  réduit  les besoins  en  équipements informatiques et  donc  des systèmes  d'alimentation  et  de  refroidissement. La  consommation  électrique  du  datacenter  baisse alors  mécaniquement  dans sa  globalité. Cet effet  cascade a  un  impact  en  phase  d’exploitation  (sur  la consommation  électrique)  mais également  en  phase  d’investissement.  En effet,  encore  trop  régulièrement,  la construction des  salles  serveurs  est  dimensionnée sur  la base de  puissance  théorique  issue  des  fiches  constructeurs [14]. ![L'effet cascade](img\effet-cascade.jpg "L'effet cascade")
 
 ### Et l'humain
 
@@ -279,7 +279,7 @@ Sur internet, dans les médias ou autour de discussions, on peut trouver de nomb
 
 > Note : Niveau nutritionnel, seul un régime 100% végétalien (céréales, légumineuses, fruits et légumes) comporte des risques de carence en vitamine B12, zinc et fer. Pour les personnes anémiées en fer, il peut être dangereux de se passer de viande rouge car cet aliment contient beaucoup de fer facilement assimilable [26].
 
-![Apports nutritionnels des principaux aliments](https://assets-decodeurs.lemonde.fr/decodeurs/medias/menusvegetariens/infog2.svg "Apports nutritionnels des principaux aliments")
+![Apports nutritionnels des principaux aliments](img\infog2.png "Apports nutritionnels des principaux aliments")
 
 ### Des bonnes intentions mais
 

@@ -15,6 +15,7 @@ Si des erreurs ou des fautes sont présentes, n'hésitez pas à faire une PR.
     - [Et l'humain](#et-lhumain)
   - [Vous](#vous)
     - [Se situer](#se-situer)
+      - [Tableau impact fabriction](#tableau-impact-fabriction)
     - [Des bonnes intentions mais](#des-bonnes-intentions-mais)
   - [Comment réduire son empreinte individuelle ?](#comment-réduire-son-empreinte-individuelle-)
   - [Les premiers gestes](#les-premiers-gestes)
@@ -196,7 +197,8 @@ En prenant l'exemple d'une ESN qui travaille sur le développement d'une applica
 - une personne du management est nécessaire pour 6 développeu·r·se·s,
 - tout le monde vient en voiture.
 
-En données d'entrée on prendra pour les véhicules :
+En données d'entrée on prendra pour les véhicules :  
+
 | Modèle   | Consommation $l/100km$ [18] | Carburant | Émission $gCO_{2eq}/100km$ [19] | Émission carburant $gCO_{2eq}/l$ [20] |
 |:---------|:---------------------------:|:----------|:-------------------------------:|:-------------------------------------:|
 | fiesta   | 7,3                         | essence   | 99                              | 507                                   |

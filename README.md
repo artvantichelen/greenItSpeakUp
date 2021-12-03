@@ -11,5 +11,5 @@
 ## Other way
 
 - open GreenIT_LesPetitGestes.md in markdown editor on your device.
-- open GreenIT_LesPetitGestes.md in [UPMATH](https://upmath.me/).
+- open GreenIT_LesPetitGestes.md in [stackedit](https://stackedit.io/app#).
 - open GreenIT_LesPetitGestes.pdf (No math formula supported).

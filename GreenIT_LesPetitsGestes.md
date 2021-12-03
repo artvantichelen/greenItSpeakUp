@@ -244,30 +244,30 @@ Sur internet, dans les médias ou autour de discussions, on peut trouver de nomb
   - en faisant ses produits ménagers et cosmétiques, en achetant des produits 100% ou majoritairement réutilisables les émissions sont divisés par 3 [24].
 - **L'électroménager et numérique**, les étiquettes énergétiques changent régulièrement. Depuis mars 2021, les notes vont à nouveau de A à F avec des seuils relevés. Ainsi un appareil A+++ vendu avant 2021 peut être classé B ou C [25]. Puisque la production d'électricité est faiblement carbonée en France, les émissions de GES sont principalement dues à la production de ces appareils :
   - Pour un foyer de 3 personnes (2 adultes et un.e ado) l'électro-ménager, avant même d'avoir servi, a émis (en moyenne) $1,79 tCO_(2eqs)$. Il est donc préférable qu'il soit amorti dans le temps. Pour cela, il faut garder et réparer ses appareils le plus longtemps possible (Le Black Friday n'est vraiment pas votre ami).
-  | Appareil                  | Émission ($kgCO_{2eq}$) | Quantité |
-  |:--------------------------|------------------------:|:--------:|
-  | Réfrigérateur-congélateur | 25,70                   | 1        |
-  | Lave-linge                | 34,20                   | 1        |
-  | Sèche-linge               | 26,60                   | 1        |
-  | Lave-vaisselle            | 27,10                   | 1        |
-  | Four                      | 18,08                   | 1        |
-  | Micro-onde                | 8,20                    | 1        |
-  | Plaques                   | 6,53                    | 1        |
-  | Bouilloire                | 1,65                    | 1        |
-  | Cafetière                 | 5,32                    | 1        |
-  | Aspirateur                | 6,55                    | 1        |
-  | Robot cuisine             | 41,30                   | 1        |
-  | Appareil photo            | 30,00                   | 1        |
-  | Ordinateur portable       | 156,00                  | 2        |
-  | Tour ordinateur           | 296,00                  | 1        |
-  | Écran ordinateur          | 248,00                  | 1        |
-  | Home cinéma               | 133,00                  | 1        |
-  | Nokia 3310                | 16,50                   | 0        |
-  | Smartphone                | 39,10                   | 2        |
-  | Iphone XI                 | 57,00                   | 3        |
-  | Tablette                  | 63,00                   | 1        |
-  | TV                        | 371,00                  | 1        |
-  | Vidéo Projecteur          | 94,00                   | 0        |
+| Appareil                  | Émission ($kgCO_{2eq}$) | Quantité |
+|:--------------------------|------------------------:|:--------:|
+| Réfrigérateur-congélateur | 25,70                   | 1        |
+| Lave-linge                | 34,20                   | 1        |
+| Sèche-linge               | 26,60                   | 1        |
+| Lave-vaisselle            | 27,10                   | 1        |
+| Four                      | 18,08                   | 1        |
+| Micro-onde                | 8,20                    | 1        |
+| Plaques                   | 6,53                    | 1        |
+| Bouilloire                | 1,65                    | 1        |
+| Cafetière                 | 5,32                    | 1        |
+| Aspirateur                | 6,55                    | 1        |
+| Robot cuisine             | 41,30                   | 1        |
+| Appareil photo            | 30,00                   | 1        |
+| Ordinateur portable       | 156,00                  | 2        |
+| Tour ordinateur           | 296,00                  | 1        |
+| Écran ordinateur          | 248,00                  | 1        |
+| Home cinéma               | 133,00                  | 1        |
+| Nokia 3310                | 16,50                   | 0        |
+| Smartphone                | 39,10                   | 2        |
+| Iphone XI                 | 57,00                   | 3        |
+| Tablette                  | 63,00                   | 1        |
+| TV                        | 371,00                  | 1        |
+| Vidéo Projecteur          | 94,00                   | 0        |
 
 - **Le régime alimentaire**, sûrement le geste avec le rapport investissement/réduction le plus élevé. La production de viande de bœuf est la plus émettrice de GES ($CH_{4}$ et $CO_{2}$). En effet, un bœuf demande beaucoup d'espace et de nourriture. Bien souvent, cette dernière est importée de très loin, faisant ainsi grimper l'empreinte carbone de la production de viande.
   - 1kg de viande rouge produit en moyenne $35,80 kgCO_{2eq}$,

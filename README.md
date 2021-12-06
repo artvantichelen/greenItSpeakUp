@@ -40,12 +40,12 @@ open the file
    1. Install [Pandoc](https://pandoc.org/installing.html)
    2. Install [MiKTeX](https://miktex.org/download)
 3. Changes:
-   1. Modify only the file **GreenIT_LesPetitsGestes.md**
+   1. Modify only the file **GreenIT_LesPetitsGestes.md** (for math formula, please use LaTex language)
    2. Export to pdf:
       1. run in terminal `pandoc GreenIT_LesPetitsGestes.md -o GreenIT_LesPetitsGestes.pdf`
    3. Export to html:
       1. run in terminal `pandoc --toc --standalone --mathjax --metadata title="Green IT : Les petits gestes" -f markdown -t html GreenIT_LesPetitsGestes.md -o GreenIT_LesPetitsGestes.html`
-   4. Export to docx:
+   5. Export to docx:
       1. run in terminal `pandoc -f markdown -t latex -o GreenIT_LesPetitsGestes.tex GreenIT_LesPetitsGestes.md && pandoc -f latex -t docx --data-dir=docs/rendering/ -o GreenIT_LesPetitsGestes.docx GreenIT_LesPetitsGestes.tex`
 4. Push on your repo:
    1. run `git add .`
